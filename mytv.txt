@@ -19,7 +19,7 @@
 	"sites": [
 {
 "key": "椰子采集",
-"name": "▎☆老杨整理 ☆ ▎仅供测试学习，请勿外传",
+"name": "▎☆老杨整理 ☆ ▎仅供测试学习，请勿传播",
 "type": 1,
 "api": "https://zy.gbxy.net.cn/api.php/provide/vod/?ac=list",
 "searchable": 1,
@@ -29,7 +29,7 @@
 },
    	{
 "key": "CZSPP",
-"name": "▎☆老杨自用，请勿外传☆一  ▎",
+"name": "▎☆老杨自用，请勿传播☆一  ▎",
 "type": 3,
 "api": "csp_Czsapp",
 "searchable": 1,
@@ -39,7 +39,7 @@
 },
 {
 "key":"Lgyy",
-"name":"▎☆老杨自用，请勿外传☆二 ▎",
+"name":"▎☆老杨自用，请勿传播☆二 ▎",
 "type":3,
 "api":"csp_Lgyy",
 "searchable":1,
@@ -50,7 +50,7 @@
 },
 {
 "key": "4K",
-"name": "▎☆老杨自用，请勿外传☆三  ▎",
+"name": "▎☆老杨自用，请勿传播☆三  ▎",
 "type": 3,
 "api": "csp_xBPQ",
 "filterable": 1,
@@ -60,11 +60,11 @@
 "jar": "http://47.242.90.42:8888/down/r3SL1ODR7qi2",
 "ext": "http://47.242.90.42:8888/down/ZhOsNeA58DtU"
 },
-	{"key":"csp_SP360","name":"▎☆老杨自用，请勿外传☆四 ▎","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
+	{"key":"csp_SP360","name":"▎☆老杨自用，请勿传播☆四 ▎","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"csp_kuaikan","name":"▎☆老杨自用，请勿外传☆五 ▎","type":3,"api":"csp_Kuaikan","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_kuaikan","name":"▎☆老杨自用，请勿传播☆五 ▎","type":3,"api":"csp_Kuaikan","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 		
-		{"key":"csp_77","name":"▎☆老杨自用，请勿外传☆六 ▎","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+		{"key":"csp_77","name":"▎☆老杨自用，请勿传播☆六 ▎","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
       
 		{
 "key": "Yisou",
