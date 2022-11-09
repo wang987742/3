@@ -17,16 +17,7 @@
 
 	"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL2x5dHYvdHYvcmF3L2JyYW5jaC9tYXN0ZXIvbGl2ZS50eHQ="]}]}],
 	"sites": [
-{
-"key": "椰子采集",
-"name": "▎☆老杨整理 ☆ ▎仅供测试学习，请勿传播",
-"type": 1,
-"api": "https://zy.gbxy.net.cn/api.php/provide/vod/?ac=list",
-"searchable": 1,
-"quickSearch": 1,
-"filterable": 1,
-"categories": ["国产剧","日韩剧","港台剧","欧美剧","动作片","科幻片","战争片","奇幻片","喜剧片","爱情片","犯罪片","悬疑片","惊悚片","剧情片","冒险片","记录片","国内综艺","综艺","海外综艺","国产动漫","日韩动漫"]
-},
+{"key":"T4_douban","name":"▎老杨推荐 ▎","type":4,"api":"http://top.fuqizhishi.com/vod","searchable":1,"quickSearch":1,"filterable":0},
    	{
 "key": "CZSPP",
 "name": "▎①老杨自用，请勿传播☆一  ▎",
