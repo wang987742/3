@@ -57,6 +57,19 @@
 		
 		{"key":"csp_77","name":"🌤▎⑥老杨自用，请勿传播☆六 ▎","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 
+	{
+"key": "csp_DiDuan",
+"name": "🛣▎⑦老杨自用，请勿传播☆七 ▎",
+"type": 3,
+"api": "csp_Ddrk",
+"click": "ddys.tv;#vjsp > button",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 0,
+"ext": ""
+},	
+
+ {"key":"csp_apple","name":"🍎▎⑧老杨自用，请勿传播☆八 ▎","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 		{
 "key": "天堂资源",
 "name": "🏅┃老杨官方采集一┃",
