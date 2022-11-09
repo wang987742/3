@@ -17,16 +17,7 @@
 
 	"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL2x5dHYvdHYvcmF3L2JyYW5jaC9tYXN0ZXIvbGl2ZS50eHQ="]}]}],
 	"sites": [
-{
-"key": "椰子采集",
-"name": "▎☆老杨整理 ☆ ▎仅供测试学习，请勿传播",
-"type": 1,
-"api": "https://zy.gbxy.net.cn/api.php/provide/vod/?ac=list",
-"searchable": 1,
-"quickSearch": 1,
-"filterable": 1,
-"categories": ["国产剧","日韩剧","港台剧","欧美剧","动作片","科幻片","战争片","奇幻片","喜剧片","爱情片","犯罪片","悬疑片","惊悚片","剧情片","冒险片","记录片","国内综艺","综艺","海外综艺","国产动漫","日韩动漫"]
-},
+	{"key":"csp_77","name":"▎☆老杨整理，请勿传播☆ ▎","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
    	{
 "key": "CZSPP",
 "name": "▎①老杨自用，请勿传播☆一  ▎",
@@ -63,8 +54,34 @@
 	{"key":"csp_SP360","name":"▎④老杨自用，请勿传播☆四 ▎","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"csp_kuaikan","name":"▎⑤老杨自用，请勿传播☆五 ▎","type":3,"api":"csp_Kuaikan","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
-		
-		{"key":"csp_77","name":"▎⑥老杨自用，请勿传播☆六 ▎","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+
+{"key":"csp_XYQ_e9","name":"▎⑥老杨自用，请勿传播☆六▎","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://47.242.90.42:8888/down/JXrfsJlSc7nG"},
+
+	{
+"key": "csp_DiDuan",
+"name": "▎⑦老杨自用，请勿传播☆七 ▎",
+"type": 3,
+"api": "csp_Ddrk",
+"click": "ddys.tv;#vjsp > button",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 0,
+"ext": ""
+},	
+
+{"key": "csp_xpath_fantuan","name":"️▎⑧老杨自用，请勿传播☆八 ▎","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://47.242.90.42:8888/down/C1P9iwJxrSZh"},
+
+ {"key":"csp_apple","name":"▎⑨老杨自用，请勿传播☆九▎","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
+
+ {
+"key" : "drpy_js_牛马TV",
+"name" : "▎⑩老杨自用，请勿传播☆十"▎,
+"type" : 3,
+"api" : "http://tvmvip110.live/down.php/af1413f326a5c4677286bceaee6db6ad.js",
+"ext" : "http://tvmvip110.live/down.php/5340eaea55da8dc1de40b3f98318ad99.js"
+},
+
+
 
 		{
 "key": "天堂资源",
