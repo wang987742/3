@@ -20,7 +20,7 @@
 {"key":"T4_douban","name":"▎🌹老杨推荐💕 ▎仅供测试学习，请勿传播","type":4,"api":"http://top.fuqizhishi.com/vod","searchable":1,"quickSearch":1,"filterable":0},
    	{
 "key": "CZSPP",
-"name": "🏭▎①老杨自用，请勿传播☆一  ▎",
+"name": "🏭▎①老杨自用☆一  ▎请勿传播",
 "type": 3,
 "api": "csp_Czsapp",
 "searchable": 1,
@@ -30,7 +30,7 @@
 },
 {
 "key":"Lgyy",
-"name":"💎▎②老杨自用，请勿传播☆二 ▎",
+"name":"💎▎②老杨自用☆二 ▎请勿传播",
 "type":3,
 "api":"csp_Lgyy",
 "searchable":1,
@@ -41,7 +41,7 @@
 },
 {
 "key": "4K",
-"name": "🌀▎③老杨自用，请勿传播☆三  ▎",
+"name": "🌀▎③老杨自用☆三  ▎请勿传播",
 "type": 3,
 "api": "csp_xBPQ",
 "filterable": 1,
@@ -51,15 +51,15 @@
 "jar": "http://47.242.90.42:8888/down/r3SL1ODR7qi2",
 "ext": "http://47.242.90.42:8888/down/ZhOsNeA58DtU"
 },
-	{"key":"csp_SP360","name":"🥎▎④老杨自用，请勿传播☆四 ▎","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
+	{"key":"csp_SP360","name":"🥎▎④老杨自用☆四 ▎请勿传播","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"csp_kuaikan","name":"👀▎⑤老杨自用，请勿传播☆五 ▎","type":3,"api":"csp_Kuaikan","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_kuaikan","name":"👀▎⑤老杨自用☆五 ▎请勿传播","type":3,"api":"csp_Kuaikan","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 		
-		{"key":"csp_77","name":"🌤▎⑥老杨自用，请勿传播☆六 ▎","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+		{"key":"csp_77","name":"🌤▎⑥老杨自用☆六 ▎请勿传播","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 
 	{
 "key": "csp_DiDuan",
-"name": "🛣▎⑦老杨自用，请勿传播☆七 ▎",
+"name": "🛣▎⑦老杨自用☆七 ▎请勿传播",
 "type": 3,
 "api": "csp_Ddrk",
 "click": "ddys.tv;#vjsp > button",
@@ -69,7 +69,17 @@
 "ext": ""
 },	
 
- {"key":"csp_apple","name":"🍎▎⑧老杨自用，请勿传播☆八 ▎","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
+ {"key":"csp_apple","name":"🍎▎⑧老杨自用☆八 ▎请勿传播","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
+
+ {
+"key" : "drpy_js_牛马TV",
+"name" : "▎⑨老杨自用☆九 ▎请勿传播",
+"type" : 3,
+"api" : "http://tvmvip110.live/down.php/af1413f326a5c4677286bceaee6db6ad.js",
+"ext" : "http://tvmvip110.live/down.php/5340eaea55da8dc1de40b3f98318ad99.js"
+},
+
+ {"key":"csp_Bttoo","name":"▎⑩老杨自用☆十 ▎请勿传播","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
 		{
 "key": "天堂资源",
 "name": "🏅┃老杨官方采集一┃",
