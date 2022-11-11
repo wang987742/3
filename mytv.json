@@ -80,10 +80,11 @@
 },
 
  {"key":"csp_Bttoo","name":"🐠▎⑩老杨自用☆十 ▎请勿传播","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
-	
+	{"key": "MV","name": "💽歌曲MV〔合集〕","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/lytv/zyck/raw/branch/master/%e6%ad%8c%e6%9b%b2MV.json"},
 	{"key": "演唱会","name": "🍟演唱会〔合集〕","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/lytv/zyck/raw/branch/master/%e6%bc%94%e5%94%b1%e4%bc%9a.json"},
 	{"key": "美食","name": " 🍲美食〔合集〕","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/lytv/zyck/raw/branch/master/%e7%be%8e%e9%a3%9f.json"},
 	
+
 	{
 "key": "天堂资源",
 "name": "🏅┃老杨官方采集一┃",
