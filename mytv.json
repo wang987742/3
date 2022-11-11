@@ -1,7 +1,7 @@
 ﻿{
 	"spider": "https://agit.ai/lytv/tv/raw/branch/master/ly.jar", 
 
-	"wallpaper": "https://img2.baidu.com/it/u=948984972,3559587816&fm=253&fmt=auto&app=120&f=JPEG?w=1422&h=800",
+	"wallpaper": "http://maoyingshi.cc/api.php",
 	"rules": [
 {"host":"*", "rule":["douyinvod.com", "/video/tos/cn/"]},
 {"host":"*", "rule":["default.365yg.com", "/video/tos/cn/"]},
