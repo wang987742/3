@@ -206,47 +206,11 @@
 {"name": "老杨解析3","type": 1,"url": "http://jx.vipmv.co/json.php?token=123457&url=","ext": {"flag": ["qq","腾讯","letv","乐视","mgtv","芒果","youku","优酷","qiyi","iqiyi","爱奇艺","奇艺"]}},
 {"name":"老杨解析4","type":1,"url":"http://119.91.206.244:9999/jx/hfys.php?url=","ext": {"flag": ["imgo","duoduozy", "renrenmi","ltnb","miaoparty","miaoparty2","miaoparty3","laodiyun","laodim3u8","lekanzyw","rx","CL4K","fuckapp","1080P", "wuduzy"]}},
 {"name": "老杨解析5","type": 1,"url": "http://rxjx.kuanjv.com/allm3u8.php?url="},
-{"name": "Web2","type": 0,"url": "https://vip.parwix.com:4433/player/?url=","ext": {"flag": ["imgo","ltnb","renrenmi","qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","bilibili","哔哩哔哩","哔哩"]}},
+{"name":"Web2","type":0,"url":"https://www.ckplayer.vip/jiexi/?url="},
 {"name":"Web3","type":0,"url":"https://dm.xmflv.com:4433/?url=","ext": {"flag": ["imgo","ltnb","renrenmi","qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","bilibili","哔哩哔哩","哔哩"]}},
 {"name": "Web4","type": 0,"url": "https://www.yemu.xyz/?url=","ext": {"flag": ["imgo","qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
-{"name": "Web5", "type": 0,"url": "http://42.193.18.62:9999/analysis.php?v=","ext": { "flag": ["imgo","qq","腾讯", "qiyi", "爱奇艺","奇艺", "youku", "优酷","mgtv","芒果","letv","乐视","pptv", "PPTV", "sohu","bilibili","哔哩哔哩", "哔哩"]}}, 
-{"name":"Web6","type":0,"url":"https://www.ckplayer.vip/jiexi/?url="},
+
 {
-		"name": "云解析",
-		"type": 1,
-		"url": "http://chaloli.cn/home/api?type=ys&uid=1&key=dfgilnotuyDGHMQW34&url="
-	}, 
-	{
-		"name": "解析02",
-		"type": 1,
-		"url": "https://www.nxflv.com/?url="
-	}, 
-	{
-		"name": "aiku",
-		"type": 1,
-		"url": "https://cache.json.icu/home/api?type=ys&uid=292796&key=fnoryABDEFJNPQV269&url="
-	}, 
-	{
-		"name": "牛逼解析",
-		"type": 1,
-		"url": "https://nbjx.vip/?url="
-	}, 
-    {
-		"name": "GGTV快速",
-		"type": 1,
-		"url": "https://play.fuqizhishi.com/gang0818/API.php?appkey=QQ172598364&url="
-	}, 
-	{
-		"name": "解析第一",
-		"type": 0,
-		"url": "http://27.124.4.42:4567/jhjson/ceshi.php?url="
-	},
-	{
-		"name": "解析05",
-		"type": 0,
-		"url": "http://id190.tpddns.cn:81/jsonch/?url="
-	},	
-	{
 		"name": "m3u8tv高清",
 		"type": 0,
 		"url": "https://jx.m3u8.tv/jiexi/?url="
