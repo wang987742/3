@@ -102,6 +102,7 @@
 "searchable": 1, 
 "quickSearch": 0
 },   
+{"key": "少儿","name": "🅰️少儿〔合集〕","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/lytv/zyck/raw/branch/master/%e5%b0%91%e5%84%bf%e6%95%99%e8%82%b2.json"},
 {"key": "学堂","name": "🏯学堂教育〔合集〕","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/lytv/zyck/raw/branch/master/%e5%ad%a6%e5%a0%82.json"},
 {
 "key": "学习乐园",
