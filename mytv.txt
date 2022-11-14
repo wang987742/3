@@ -17,9 +17,9 @@
 
 	"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL2x5dHYvdHYvcmF3L2JyYW5jaC9tYXN0ZXIvbGl2ZS50eHQ="]}]}],
 	"sites": [
-{"key":"T4_douban","name":"▎🌹老杨推荐💕 ▎仅供测试学习，请勿传播！已剔除失效源1、9","type":4,"api":"http://top.fuqizhishi.com/vod","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"T4_douban","name":"▎🌹老杨推荐💕 ▎仅供测试学习，请勿传播！已剔除失效源⑥⑨","type":4,"api":"http://top.fuqizhishi.com/vod","searchable":1,"quickSearch":1,"filterable":0},
 
-
+	{"key":"csp_77","name":"🌤▎①老杨自用☆一 ▎请勿传播","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {
 "key":"Lgyy",
 "name":"💎▎②老杨自用☆二 ▎请勿传播",
@@ -47,7 +47,7 @@
 
 {"key":"csp_kuaikan","name":"👀▎⑤老杨自用☆五 ▎请勿传播","type":3,"api":"csp_Kuaikan","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 		
-		{"key":"csp_77","name":"🌤▎⑥老杨自用☆六 ▎请勿传播","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+	
 
 	{
 "key": "csp_DiDuan",
