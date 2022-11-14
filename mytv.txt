@@ -69,7 +69,6 @@
 "ext": ""
 },	
 
- {"key":"csp_apple","name":"🍎▎⑧老杨自用☆八 ▎请勿传播","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 
  {
 "key" : "drpy_js_牛马TV",
