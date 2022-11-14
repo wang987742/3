@@ -69,7 +69,27 @@
 "ext": ""
 },	
 
-   
+      {
+"key": "csp_Zjdr", 
+"name": "▎追剧达人  ▎", 
+"type": 3, 
+"api": "csp_Zjdr", 
+"searchable": 1, 
+"quickSearch": 1, 
+"filterable": 1,
+"jar": "",
+"ext": ""
+},
+		{
+			"key": "追剧喵",
+			"name": "▎追剧喵源  ▎",
+			"type": 3,
+			"api": "csp_ZJMiao",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": ""
+		},
 
  {
 "key" : "drpy_js_牛马TV",
