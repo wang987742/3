@@ -69,27 +69,18 @@
 "ext": ""
 },	
 
-      {
-"key": "csp_Zjdr", 
-"name": "▎追剧达人  ▎", 
-"type": 3, 
-"api": "csp_Zjdr", 
-"searchable": 1, 
-"quickSearch": 1, 
-"filterable": 1,
-"jar": "",
+    	{
+"key": "Zxzj",
+"name": "▎在线之家  ▎",
+"type": 3,
+"api": "csp_Zxzj",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 1, 
 "ext": ""
 },
-		{
-			"key": "追剧喵",
-			"name": "▎追剧喵源  ▎",
-			"type": 3,
-			"api": "csp_ZJMiao",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": ""
-		},
+
+{"key": "csp_xpath_fantuan","name":"️▎饭团影视 ▎","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://47.242.90.42:8888/down/C1P9iwJxrSZh"},
 
  {
 "key" : "drpy_js_牛马TV",
