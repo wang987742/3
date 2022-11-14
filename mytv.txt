@@ -69,34 +69,7 @@
 "ext": ""
 },	
 
-    {
-            "key" : "drpy_js_真不卡",
-            "name" : "真不卡[DRPY]",
-            "type" : 3,
-            "api" : "./lib/drpy.ym.js",
-            "ext" : "./js/真不卡.js"
-        },
-            {
-            "key" : "drpy_js_素白白",
-            "name" : "素白白[DRPY]",
-            "type" : 3,
-            "api" : "./lib/drpy.ym.js",
-            "ext" : "./js/素白白.js"
-        },
-            {
-            "key" : "drpy_js_短视频",
-            "name" : "短视频[DRPY]",
-            "type" : 3,
-            "api" : "./lib/drpy.ym.js",
-            "ext" : "./js/短视频.js"
-        },
-            {
-            "key" : "drpy_js_麦豆",
-            "name" : "麦豆[DRPY]",
-            "type" : 3,
-            "api" : "./lib/drpy.ym.js",
-            "ext" : "./js/麦豆.js"
-        },
+   
 
  {
 "key" : "drpy_js_牛马TV",
