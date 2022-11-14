@@ -94,23 +94,12 @@
 
 {"key": "csp_xpath_fantuan","name":"️🍙▎饭团影视 ▎","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://47.242.90.42:8888/down/C1P9iwJxrSZh"},
 
-	{"key":"csp_Nmys","name":"🌾农民┃SP","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/nmys.json"},
-	{"key":"csp_Bttoo","name":"✌2BT┃SP","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"csp_Bd","name":"💥bidi┃SP","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
+   {"key":"csp_Bd","name":"💥bidi┃SP","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Ysgc","name":"🏭工厂┃SP","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"csp_Cokemv","name":"📕Cok┃SP","type":3,"api":"csp_Cokemv","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"csp_Smdyy","name": "🐴神马┃SP","type": 3,"api": "csp_Smdyy","searchable": 1,"quickSearch": 1,"filterable": 1},
     {"key":"csp_Tkys","name": "🔃天空┃SP","type": 3,"api": "csp_Tkys","searchable": 1,"quickSearch": 1,"filterable": 1},
     {"key":"csp_Lezhu","name":"🐷乐猪┃SP","type":3,"api":"csp_Lezhu","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_jihuang","name":"🚀剧荒┃SP","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1},
 	{"key":"csp_app_gotka","name":"🐌速播影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://mkk.gotka.top/api.php/v1.vod"},
-
-    {"key":"csp_xBPQ_不卡","name":"🍀不卡","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xbpq/不卡.json"},
-    {"key":"csp_xBPQ_98","name":"🍀98影","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xbpq/98影院.json"},
-    {"key":"csp_xBPQ_极品","name":"🍀极品","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xbpq/极品.json"},
-	{"key":"csp_xbb_稀饭影视","name":"🍀稀饭影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xb/稀饭影视.json"},
-	{"key":"csp_xp_6d","name":"💢六度TV","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xp/6d.json"},
-    {"key":"csp_xp_348z","name":"💢348电影","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xp/348z.json"},
 
 	
 	
