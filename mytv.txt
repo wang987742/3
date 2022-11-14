@@ -87,7 +87,7 @@
 
     	{
 "key": "Zxzj",
-"name": "▎💽▎老杨奈飞HBO ▎",
+"name": "💽▎老杨奈飞HBO ▎",
 "type": 3,
 "api": "csp_Zxzj",
 "searchable": 1,
