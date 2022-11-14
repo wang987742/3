@@ -20,7 +20,7 @@
 {"key":"T4_douban","name":"▎🌹老杨推荐💕 ▎仅供测试学习，请勿传播","type":4,"api":"http://top.fuqizhishi.com/vod","searchable":1,"quickSearch":1,"filterable":0},
    	{
 "key": "CZSPP",
-"name": "🏭▎①老杨自用☆一  ▎请勿传播",
+"name": "🏭▎已失效，有空更新  ▎请勿传播",
 "type": 3,
 "api": "csp_Czsapp",
 "searchable": 1,
@@ -75,7 +75,7 @@
 
  {
 "key" : "drpy_js_牛马TV",
-"name" : "🐎▎⑨老杨自用☆九 ▎请勿传播",
+"name" : "🐎▎已失效☆九 ▎请勿传播",
 "type" : 3,
 "api" : "http://tvmvip110.live/down.php/af1413f326a5c4677286bceaee6db6ad.js",
 "ext" : "http://tvmvip110.live/down.php/5340eaea55da8dc1de40b3f98318ad99.js"
