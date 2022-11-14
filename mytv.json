@@ -94,6 +94,8 @@
 
 {"key": "csp_xpath_fantuan","name":"️🍙▎饭团影视 ▎","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/lytv/zyck/raw/branch/master/%e9%a5%ad%e5%9b%a2%e5%bd%b1%e8%a7%86.json"},
 
+{"key":"诺讯资源","name":"『诺讯资源』","type":1,"api":"http://caiji.nxflv.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["国产剧","港台剧","日韩剧","欧美剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","综艺频道","动漫频道","综合频道"]},
+
    {"key":"csp_Bd","name":"💥bidi┃SP","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Ysgc","name":"🏭工厂┃SP","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Tkys","name": "🔃天空┃SP","type": 3,"api": "csp_Tkys","searchable": 1,"quickSearch": 1,"filterable": 1},
@@ -234,6 +236,7 @@
 {"name":"GGTV","type":1,"url":"https://play.fuqizhishi.com/jx2/API.php?appkey=iiiixiaobai&url="},
 {"name":"So丶","type":0,"url":" https://tljiaqing.nde.tw/m3u8/?url="},
 {"name":"神4k","type":0,"url":"https://h5.freejson.xyz/player/?url="},
+{"name":"诺讯专用","type": 0,"url":"https://www.nxflv.com/?url="},
 {"name":"Web2","type":0,"url":"https://www.ckplayer.vip/jiexi/?url="},
 {"name":"Web3","type":0,"url":"https://dm.xmflv.com:4433/?url=","ext": {"flag": ["imgo","ltnb","renrenmi","qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","bilibili","哔哩哔哩","哔哩"]}},
 {"name": "Web4","type": 0,"url": "https://www.yemu.xyz/?url=","ext": {"flag": ["imgo","qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
