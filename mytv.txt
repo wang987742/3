@@ -48,22 +48,14 @@
 {"key":"csp_kuaikan","name":"👀▎⑤老杨自用☆五 ▎请勿传播","type":3,"api":"csp_Kuaikan","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
  {
       "key": "csp_Kunyu77",
-      "name": "🍁多多七七",
+      "name": "🍁▎⑥老杨自用☆六 ▎请勿传播",
       "type": 3,
       "api": "csp_Kunyu77",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
-        {
-      "key": "APPTT",
-      "name": "🗺️图图影视",
-      "type": 3,
-      "api": "csp_AppTT",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },		
+       
 {
 "key": "csp_DiDuan",
 "name": "🛣▎⑦老杨自用☆七 ▎请勿传播",
@@ -76,10 +68,10 @@
 "ext": ""
 },	
 
-{"key": "csp_xpath_fantuan","name":"️🌀▎⑧老杨自用☆八 ▎请勿传播 ▎","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://47.242.90.42:8888/down/C1P9iwJxrSZh"},
+{"key": "csp_xpath_fantuan","name":"️🌀▎⑧老杨自用☆八 ▎请勿传播 ","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://47.242.90.42:8888/down/C1P9iwJxrSZh"},
 {
       "key": "csp_Nmys",
-      "name": "👨‍🌾农民影视",
+      "name": "👨‍🌾▎⑨老杨自用☆九 ▎请勿传播",
       "type": 3,
       "api": "csp_Nmys",
       "searchable": 1,
@@ -91,16 +83,25 @@
  {"key":"csp_Bttoo","name":"🐠▎⑩老杨自用☆十 ▎请勿传播","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
  {
       "key": "Kuaikan",
-      "name": "🦋快看影视",
+      "name": "🦋▎①老杨精选☆ ▎请勿传播",
       "type": 3,
       "api": "csp_Kuaikan",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
+     {
+      "key": "APPTT",
+      "name": "🗺️▎②老杨精选☆ ▎请勿传播",
+      "type": 3,
+      "api": "csp_AppTT",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },		
 {
       "key": "360_spider",
-      "name": "🌈360影视",
+      "name": "🌈▎③老杨精选☆ ▎请勿传播",
       "type": 3,
       "api": "csp_SP360",
       "searchable": 1,
