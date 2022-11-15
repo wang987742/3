@@ -83,7 +83,7 @@
  {"key":"csp_Bttoo","name":"🐠▎⑩老杨自用☆十 ▎请勿传播","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
  {
       "key": "Kuaikan",
-      "name": "🦋▎①老杨精选☆ ▎请勿传播",
+      "name": "🦋▎①老杨精选☆ ▎",
       "type": 3,
       "api": "csp_Kuaikan",
       "searchable": 1,
@@ -92,7 +92,7 @@
     },
      {
       "key": "APPTT",
-      "name": "🗺️▎②老杨精选☆ ▎请勿传播",
+      "name": "🗺️▎②老杨精选☆ ▎",
       "type": 3,
       "api": "csp_AppTT",
       "searchable": 1,
@@ -101,7 +101,7 @@
     },		
 {
       "key": "360_spider",
-      "name": "🌈▎③老杨精选☆ ▎请勿传播",
+      "name": "🌈▎③老杨精选☆ ▎ ",
       "type": 3,
       "api": "csp_SP360",
       "searchable": 1,
