@@ -19,7 +19,7 @@
 	"sites": [
 
 
-      {"key":"dr_豆瓣","name":"▎🌹老杨推荐💕 ▎仅供测试学习，请勿传播！11月16日更新","type":3,"api":"https://agit.ai/lytv/tv/raw/branch/master/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/lytv/tv/raw/branch/master/%e8%b1%86%e7%93%a3.js"},
+      {"key":"dr_豆瓣","name":"▎🌹老杨推荐💕 ▎☆11月16日更新","type":3,"api":"https://agit.ai/lytv/tv/raw/branch/master/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/lytv/tv/raw/branch/master/%e8%b1%86%e7%93%a3.js"},
 
 	{"key":"csp_77","name":"🌤▎①老杨自用☆一 ▎请勿传播","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {
