@@ -26,7 +26,7 @@
       "api": "csp_AList",
       "searchable": 1,
       "filterable": 1,
-      "ext": "9T$https://drive.9t.ee#木偶$https://www.kugutsu.ml","jar":"https://ghproxy.com/https://raw.githubusercontent.com/xiaomi128/opp/main/2.jar;md5;60d9f2609ee273810e12879202418f61"
+      "ext": "4k$https://dubi.tk#9tb$https://drive.9t.ee/","jar":"https://ghproxy.com/https://raw.githubusercontent.com/xiaomi128/opp/main/2.jar;md5;60d9f2609ee273810e12879202418f61"
     },
    	{
 "key": "CZSPP",
