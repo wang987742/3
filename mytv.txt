@@ -21,6 +21,16 @@
 
       {"key":"dr_豆瓣","name":"▎🌹老杨推荐💕 ▎☆11月16日更新","type":3,"api":"https://agit.ai/lytv/tv/raw/branch/master/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/lytv/tv/raw/branch/master/%e8%b1%86%e7%93%a3.js"},
 
+{
+      "key": "AList",
+      "name": "4K高清云盘",
+      "type": 3,
+      "api": "csp_AList",
+      "searchable": 1,
+      "filterable": 1,
+      "ext": "4k高清$https://dubi.tk","jar":"https://ghproxy.com/https://raw.githubusercontent.com/xiaomi128/opp/main/2.jar;md5;60d9f2609ee273810e12879202418f61"
+    },
+
 	{"key":"csp_77","name":"🌤▎①老杨自用☆一 ▎请勿传播","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {
 "key":"Lgyy",
