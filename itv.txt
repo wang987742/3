@@ -18,6 +18,16 @@
 	"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovLzQ3LjI0Mi45MC40Mjo4ODg4L2Rvd24vbVd6MG9aQ0VwanRl"]}]}],
 	"sites": [
    	{"key":"T4_douban","name":"▎老杨推荐 ▎","type":4,"api":"http://top.fuqizhishi.com/vod","searchable":1,"quickSearch":1,"filterable":0},
+   
+   {
+      "key": "AList",
+      "name": "alal",
+      "type": 3,
+      "api": "csp_AList",
+      "searchable": 1,
+      "filterable": 1,
+      "ext": "9T$https://drive.9t.ee#木偶$https://www.kugutsu.ml","jar":"https://ghproxy.com/https://raw.githubusercontent.com/xiaomi128/opp/main/2.jar;md5;60d9f2609ee273810e12879202418f61"
+    },
    	{
 "key": "CZSPP",
 "name": "▎厂长影视  ▎",
