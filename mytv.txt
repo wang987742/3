@@ -19,7 +19,7 @@
 	"sites": [
 
 
-      {"key":"dr_豆瓣","name":"▎🌹老杨推荐💕 ▎☆11月16日更新","type":3,"api":"https://agit.ai/lytv/tv/raw/branch/master/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/lytv/tv/raw/branch/master/%e8%b1%86%e7%93%a3.js"},
+      {"key":"dr_豆瓣","name":"▎🌹老杨推荐💕 ▎☆11月17日更新新增4k蓝光原盘","type":3,"api":"https://agit.ai/lytv/tv/raw/branch/master/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/lytv/tv/raw/branch/master/%e8%b1%86%e7%93%a3.js"},
 
 {
       "key": "AList",
