@@ -19,7 +19,7 @@
 	"sites": [
 
 
-      {"key":"dr_豆瓣","name":"▎🌹老杨推荐💕 ▎☆11月17日更新新增4k蓝光原盘","type":3,"api":"https://agit.ai/lytv/tv/raw/branch/master/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/lytv/tv/raw/branch/master/%e8%b1%86%e7%93%a3.js"},
+      {"key":"dr_豆瓣","name":"▎🌹老杨推荐💕 ▎☆18日更新优化代码","type":3,"api":"https://agit.ai/lytv/tv/raw/branch/master/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/lytv/tv/raw/branch/master/%e8%b1%86%e7%93%a3.js"},
 
 {
       "key": "AList",
@@ -31,10 +31,10 @@
       "ext": "4k高清$https://dubi.tk","jar":"https://ghproxy.com/https://raw.githubusercontent.com/xiaomi128/opp/main/2.jar;md5;60d9f2609ee273810e12879202418f61"
     },
 
-	{"key":"csp_77","name":"🌤▎①老杨自用☆一 ▎请勿传播","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+	{"key":"csp_77","name":"🌤▎①老杨自用☆一 ▎","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {
 "key":"Lgyy",
-"name":"💎▎②老杨自用☆二 ▎请勿传播",
+"name":"💎▎②老杨自用☆二 ▎",
 "type":3,
 "api":"csp_Lgyy",
 "searchable":1,
@@ -45,7 +45,7 @@
 },
 {
 "key": "4K",
-"name": "🌀▎③老杨自用☆三  ▎请勿传播",
+"name": "🌀▎③老杨自用☆三  ▎",
 "type": 3,
 "api": "csp_xBPQ",
 "filterable": 1,
@@ -55,12 +55,12 @@
 "jar": "http://47.242.90.42:8888/down/r3SL1ODR7qi2",
 "ext": "http://47.242.90.42:8888/down/ZhOsNeA58DtU"
 },
-	{"key":"csp_SP360","name":"🥎▎④老杨自用☆四 ▎请勿传播","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
+	{"key":"csp_SP360","name":"🥎▎④老杨自用☆四 ▎","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"csp_kuaikan","name":"👀▎⑤老杨自用☆五 ▎请勿传播","type":3,"api":"csp_Kuaikan","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_kuaikan","name":"👀▎⑤老杨自用☆五 ▎","type":3,"api":"csp_Kuaikan","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
  {
       "key": "csp_Kunyu77",
-      "name": "🍁▎⑥老杨自用☆六 ▎请勿传播",
+      "name": "🍁▎⑥老杨自用☆六 ▎",
       "type": 3,
       "api": "csp_Kunyu77",
       "searchable": 1,
@@ -70,7 +70,7 @@
        
 {
 "key": "csp_DiDuan",
-"name": "🛣▎⑦老杨自用☆七 ▎请勿传播",
+"name": "🛣▎⑦老杨自用☆七 ▎",
 "type": 3,
 "api": "csp_Ddrk",
 "click": "ddys.tv;#vjsp > button",
@@ -80,10 +80,10 @@
 "ext": ""
 },	
 
-{"key": "csp_xpath_fantuan","name":"️🌀▎⑧老杨自用☆八 ▎请勿传播 ","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://47.242.90.42:8888/down/C1P9iwJxrSZh"},
+{"key": "csp_xpath_fantuan","name":"️🌀▎⑧老杨自用☆八 ▎ ","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://47.242.90.42:8888/down/C1P9iwJxrSZh"},
 {
       "key": "csp_Nmys",
-      "name": "👨‍🌾▎⑨老杨自用☆九 ▎请勿传播",
+      "name": "👨‍🌾▎⑨老杨自用☆九 ▎",
       "type": 3,
       "api": "csp_Nmys",
       "searchable": 1,
@@ -92,7 +92,7 @@
       "ext": "https://gitlab.com/duomv/duo/-/raw/main/json/Nmys.json"
     },
 
- {"key":"csp_Bttoo","name":"🐠▎⑩老杨自用☆十 ▎请勿传播","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
+ {"key":"csp_Bttoo","name":"🐠▎⑩老杨自用☆十 ▎","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
  {
       "key": "Kuaikan",
       "name": "🦋▎①老杨精选☆ ▎",
@@ -259,7 +259,7 @@
 	{"name": "老杨聚合","type": 3,"url": "Demo"},
 {"name": "Web聚合","type": 3,"url": "Web"},
 {"name":"老杨解析","type":1,"url":"http://211.99.99.236:4567/jhjson/ceshi.php?url=","ext":{"flag":["qiyi","iqiyi","奇艺","爱奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","bilibili","哔哩哔哩","哔哩","mgtv","芒果","xigua","西瓜","sohu","搜狐","cntv","cctv","央视","1905","m1905"]}},
-{ "name" : "老杨1080","type" : 1,"url" : "http://211.99.99.236:4567/jhjson/ceshi.php?url="},
+{"name":"老杨解析1","type": 0,"url":"https://www.nxflv.com/?url="},
 {"name":"老杨解析2","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url=","ext":{"flag":["imgo","qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
 {"name": "老杨解析3","type": 1,"url": "http://jx.vipmv.co/json.php?token=123457&url=","ext": {"flag": ["qq","腾讯","letv","乐视","mgtv","芒果","youku","优酷","qiyi","iqiyi","爱奇艺","奇艺"]}},
 {"name":"老杨解析4","type":1,"url":"http://119.91.206.244:9999/jx/hfys.php?url=","ext": {"flag": ["imgo","duoduozy", "renrenmi","ltnb","miaoparty","miaoparty2","miaoparty3","laodiyun","laodim3u8","lekanzyw","rx","CL4K","fuckapp","1080P", "wuduzy"]}},
