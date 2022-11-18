@@ -1965,21 +1965,10 @@
 "quickSearch": 0,
 "filterable": 0,
 "ext": "http://home.jundie.top:666/token.txt"
-}
+},
 
-],
 
-"lives": [{
-"group": "redirect",
-"channels": [{
-"name": "redirect",
-"urls": [
-"proxy://do=live&type=txt&ext=aHR0cDovLzQ3LjI0Mi45MC40Mjo4ODg4L2Rvd24vWk9WVnU4UE0zMGVQLnR4dA=="
-]
-}]
-}],
 	
-		
 
 
 		
