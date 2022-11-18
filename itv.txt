@@ -534,6 +534,7 @@
 "filterable": 0,
 "ext": {
 "🦀9T(Adult)": "https://drive.9t.ee",
+"🌤高清4k蓝光": "https://dubi.tk",
 "🌤晴园的宝藏库": "https://alist.52qy.repl.co",
 "🐭米奇妙妙屋": "https://anime.mqmmw.ga",
 "💂小兵组网盘影视": "https://6vv.app",
