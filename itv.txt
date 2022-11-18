@@ -1,7 +1,7 @@
 ﻿{
-	"spider": "http://47.242.90.42:8888/down/0ToDeFItbVKg", 
+	"spider": "https://agit.ai/lytv/tv/raw/branch/master/ly2.jar", 
 
-	"wallpaper": "http://tvmvip.com",
+	"wallpaper": "http://maoyingshi.cc/api.php",
 	"rules": [
 {"host":"*", "rule":["douyinvod.com", "/video/tos/cn/"]},
 {"host":"*", "rule":["default.365yg.com", "/video/tos/cn/"]},
