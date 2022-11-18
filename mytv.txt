@@ -1,5 +1,5 @@
 ﻿{
-	"spider": "https://agit.ai/lytv/tv/raw/branch/master/ly2.jar", 
+	"spider": "http://47.242.90.42:8888/down/0ToDeFItbVKg", 
 
 	"wallpaper": "http://maoyingshi.cc/api.php",
 	"rules": [
