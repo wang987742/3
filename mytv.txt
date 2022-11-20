@@ -24,7 +24,7 @@
 		 {"key":"csp_apple","name":"🍎▎②急速秒播 ▎","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {
 "key":"Lgyy",
-"name":"💎▎②老杨自用☆二 ▎请勿传播",
+"name":"💎▎①高清秒播 ▎",
 "type":3,
 "api":"csp_Lgyy",
 "searchable":1,
@@ -35,7 +35,7 @@
 },
 {
 "key": "4K",
-"name": "🌀▎③老杨自用☆三  ▎请勿传播",
+"name": "🌀▎②高清秒播  ▎",
 "type": 3,
 "api": "csp_xBPQ",
 "filterable": 1,
@@ -45,15 +45,24 @@
 "jar": "http://47.242.90.42:8888/down/r3SL1ODR7qi2",
 "ext": "http://47.242.90.42:8888/down/ZhOsNeA58DtU"
 },
-	{"key":"csp_SP360","name":"🥎▎④老杨自用☆四 ▎请勿传播","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
-
-
-		
-
+ {"key":"csp_Bttoo","name":"🐠▎③高清秒播 ▎","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
+ 	{
+"key": "Zxzj",
+"name": "🌏▎④高清秒播  ▎",
+"type": 3,
+"api": "csp_Zxzj",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 1, 
+"ext": ""
+},
+{"key": "csp_xpath_fantuan","name":"️🍙⑤高清秒播 ▎","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/lytv/zyck/raw/branch/master/%e9%a5%ad%e5%9b%a2%e5%bd%b1%e8%a7%86.json"},
+	{"key":"csp_SP360","name":"🥎▎①解析线路 ▎切换解析播放","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"诺讯资源","name":"▎②诺讯资源 ▎切换解析播放","type":1,"api":"http://caiji.nxflv.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["国产剧","港台剧","日韩剧","欧美剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","综艺频道","动漫频道","综合频道"]},
 
 	{
 "key": "csp_DiDuan",
-"name": "🛣▎⑦老杨自用☆七 ▎请勿传播",
+"name": "🛣▎高清备用线路▎不太稳定",
 "type": 3,
 "api": "csp_Ddrk",
 "click": "ddys.tv;#vjsp > button",
@@ -62,59 +71,16 @@
 "filterable": 0,
 "ext": ""
 },	
+ {"key":"csp_Lezhu","name":"🐷乐猪┃SP","type":3,"api":"csp_Lezhu","searchable":1,"quickSearch":1,"filterable":1},
+ {"key":"csp_Ysgc","name":"🏭工厂┃SP","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1},
 
+{"key":"csp_jihuang","name":"🚀剧荒┃SP","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1},
 
-
-
- {"key":"csp_Bttoo","name":"🐠▎⑩老杨自用☆十 ▎请勿传播","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
-	
-	{
-"key": "Zxzj",
-"name": "🌏▎在线之家  ▎",
-"type": 3,
-"api": "csp_Zxzj",
-"searchable": 1,
-"quickSearch": 1,
-"filterable": 1, 
-"ext": ""
-},
-
-{"key": "csp_xpath_fantuan","name":"️🍙▎饭团影视 ▎","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/lytv/zyck/raw/branch/master/%e9%a5%ad%e5%9b%a2%e5%bd%b1%e8%a7%86.json"},
-
-{"key":"诺讯资源","name":"『诺讯资源』","type":1,"api":"http://caiji.nxflv.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["国产剧","港台剧","日韩剧","欧美剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","综艺频道","动漫频道","综合频道"]},
-
-   {"key":"csp_Bd","name":"💥bidi┃SP","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"csp_Ysgc","name":"🏭工厂┃SP","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"csp_Tkys","name": "🔃天空┃SP","type": 3,"api": "csp_Tkys","searchable": 1,"quickSearch": 1,"filterable": 1},
-    {"key":"csp_Lezhu","name":"🐷乐猪┃SP","type":3,"api":"csp_Lezhu","searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"csp_jihuang","name":"🚀剧荒┃SP","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1},
-	{"key":"csp_app_gotka","name":"🐌速播影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://mkk.gotka.top/api.php/v1.vod"},
-
-	
-	
-	
 	{"key": "MV","name": "💽歌曲MV〔合集〕","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/lytv/zyck/raw/branch/master/%e6%ad%8c%e6%9b%b2MV.json"},
 	{"key": "演唱会","name": "🍟演唱会〔合集〕","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/lytv/zyck/raw/branch/master/%e6%bc%94%e5%94%b1%e4%bc%9a.json"},
-	{"key": "美食","name": " 🍲美食〔合集〕","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/lytv/zyck/raw/branch/master/%e7%be%8e%e9%a3%9f.json"},
-	
 
 	{
-"key": "天堂资源",
-"name": "🏅┃老杨官方采集一┃",
-"type": 1,
-"api": "http://vipmv.cc/api.php/provide/vod/",
-"searchable": 1,
-"quickSearch": 1
-},
-
-{
-"key": "1080", 
-"name": "🏅┃老杨官方采集二┃", 
-"type": 1, 
-"api": "http://103.222.188.156:99/rongxingapi.php/provide/vod/", 
-"searchable": 1, 
-"quickSearch": 0
-},   
+ 
 {
 			"key": "mjxq_spider",
 			"name": "💽▎老杨奈飞HBO ▎",
