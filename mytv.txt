@@ -20,17 +20,8 @@
 
  {"key":"dr_豆瓣","name":"▎🌹老杨推荐💕 ▎仅供自用","type":3,"api":"https://agit.ai/lytv/tv/raw/branch/master/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/lytv/tv/raw/branch/master/%e8%b1%86%e7%93%a3.js"},
 
-	
-   	{
-"key": "CZSPP",
-"name": "🏭▎①老杨自用☆一  ▎请勿传播",
-"type": 3,
-"api": "csp_Czsapp",
-"searchable": 1,
-"quickSearch": 1,
-"filterable": 1,
-"ext": ""
-},
+		{"key":"csp_77","name":"🌤▎①急速秒播 ▎","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+		 {"key":"csp_apple","name":"🍎▎②急速秒播 ▎","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {
 "key":"Lgyy",
 "name":"💎▎②老杨自用☆二 ▎请勿传播",
@@ -56,9 +47,9 @@
 },
 	{"key":"csp_SP360","name":"🥎▎④老杨自用☆四 ▎请勿传播","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"csp_kuaikan","name":"👀▎⑤老杨自用☆五 ▎请勿传播","type":3,"api":"csp_Kuaikan","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
+
 		
-		{"key":"csp_77","name":"🌤▎⑥老杨自用☆六 ▎请勿传播","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+
 
 	{
 "key": "csp_DiDuan",
@@ -72,15 +63,8 @@
 "ext": ""
 },	
 
- {"key":"csp_apple","name":"🍎▎⑧老杨自用☆八 ▎请勿传播","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 
- {
-"key" : "drpy_js_牛马TV",
-"name" : "🐎▎⑨老杨自用☆九 ▎请勿传播",
-"type" : 3,
-"api" : "http://tvmvip110.live/down.php/af1413f326a5c4677286bceaee6db6ad.js",
-"ext" : "http://tvmvip110.live/down.php/5340eaea55da8dc1de40b3f98318ad99.js"
-},
+
 
  {"key":"csp_Bttoo","name":"🐠▎⑩老杨自用☆十 ▎请勿传播","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
 	
