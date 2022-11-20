@@ -20,8 +20,10 @@
 
  {"key":"dr_豆瓣","name":"▎🌹老杨推荐💕 ▎仅供自用","type":3,"api":"https://agit.ai/lytv/tv/raw/branch/master/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/lytv/tv/raw/branch/master/%e8%b1%86%e7%93%a3.js"},
 
-		{"key":"csp_77","name":"🌤▎①急速秒播 ▎","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
-		 {"key":"csp_apple","name":"🍎▎②急速秒播 ▎","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_77","name":"🌤▎①急速秒播 ▎","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},,
+
+{"key":"csp_apple","name":"🍎▎②急速秒播 ▎","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
+
 {
 "key":"Lgyy",
 "name":"💎▎①高清秒播 ▎",
@@ -33,6 +35,7 @@
 "jar": "",
 "ext": ""
 },
+
 {
 "key": "4K",
 "name": "🌀▎②高清秒播  ▎",
@@ -45,8 +48,10 @@
 "jar": "http://47.242.90.42:8888/down/r3SL1ODR7qi2",
 "ext": "http://47.242.90.42:8888/down/ZhOsNeA58DtU"
 },
+ 
  {"key":"csp_Bttoo","name":"🐠▎③高清秒播 ▎","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
- 	{
+
+{
 "key": "Zxzj",
 "name": "🌏▎④高清秒播  ▎",
 "type": 3,
@@ -56,11 +61,13 @@
 "filterable": 1, 
 "ext": ""
 },
+
 {"key": "csp_xpath_fantuan","name":"️🍙⑤高清秒播 ▎","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/lytv/zyck/raw/branch/master/%e9%a5%ad%e5%9b%a2%e5%bd%b1%e8%a7%86.json"},
-	{"key":"csp_SP360","name":"🥎▎①解析线路 ▎切换解析播放","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
+	
+{"key":"csp_SP360","name":"🥎▎①解析线路 ▎切换解析播放","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"诺讯资源","name":"▎②诺讯资源 ▎切换解析播放","type":1,"api":"http://caiji.nxflv.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["国产剧","港台剧","日韩剧","欧美剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","综艺频道","动漫频道","综合频道"]},
 
-	{
+{
 "key": "csp_DiDuan",
 "name": "🛣▎高清备用线路▎不太稳定",
 "type": 3,
