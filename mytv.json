@@ -63,14 +63,20 @@
 "ext": ""
 },
 
-{"key": "csp_xpath_fantuan","name":"️🍙⑤高清秒播 ▎","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/lytv/zyck/raw/branch/master/%e9%a5%ad%e5%9b%a2%e5%bd%b1%e8%a7%86.json"},
-	
+{"key": "csp_xpath_fantuan","name":"️🍙▎⑤高清秒播 ▎","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/lytv/zyck/raw/branch/master/%e9%a5%ad%e5%9b%a2%e5%bd%b1%e8%a7%86.json"},
+{"key":"csp_Czsapp","name":"🕵▎⑥高清秒播 ▎","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},	
+{"key":"csp_Ysgc","name":"🎥▎⑦高清秒播 ▎ ","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Dy1010","name":"🔟▎⑧高清秒播 ▎ ","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
+{"key": "csp_xpNmys","name": "🌾▎⑨高清秒播 ▎","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/农民.json"},
+{"key":"csp_Bttoo","name":"✌▎⑨高清秒播 ▎","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
+
 {"key":"csp_SP360","name":"🥎▎①解析线路 ▎切换解析播放","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"诺讯资源","name":"▎②诺讯资源 ▎切换解析播放","type":1,"api":"http://caiji.nxflv.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["国产剧","港台剧","日韩剧","欧美剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","综艺频道","动漫频道","综合频道"]},
 
+{"key":"csp_Kuaikan","name":"👀▎①高清备用线路▎不太稳定","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {
 "key": "csp_DiDuan",
-"name": "🛣▎高清备用线路▎不太稳定",
+"name": "🛣▎②高清备用线路▎不太稳定",
 "type": 3,
 "api": "csp_Ddrk",
 "click": "ddys.tv;#vjsp > button",
@@ -162,12 +168,12 @@
 {"name":"老杨解析3","type":1,"url":"http://211.99.99.236:4567/jhjson/ceshi.php?url=","ext":{"flag":["qiyi","iqiyi","奇艺","爱奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","bilibili","哔哩哔哩","哔哩","mgtv","芒果","xigua","西瓜","sohu","搜狐","cntv","cctv","央视","1905","m1905"]}},
 {"name": "老杨解析4","type": 1,"url": "http://jx.vipmv.co/json.php?token=123457&url=","ext": {"flag": ["qq","腾讯","letv","乐视","mgtv","芒果","youku","优酷","qiyi","iqiyi","爱奇艺","奇艺"]}},
 {"name":"老杨解析5","type":1,"url":"http://119.91.206.244:9999/jx/hfys.php?url=","ext": {"flag": ["imgo","duoduozy", "renrenmi","ltnb","miaoparty","miaoparty2","miaoparty3","laodiyun","laodim3u8","lekanzyw","rx","CL4K","fuckapp","1080P", "wuduzy"]}},
+{"name": "云you解析①","type": 1,"url": "http://chaloli.cn/home/api?type=ys&uid=1&key=ekloswzABCGHKLOT58&url="}, 
 {"name":"GGTV","type":1,"url":"https://play.fuqizhishi.com/jx2/API.php?appkey=iiiixiaobai&url="},
 {"name":"So丶","type":0,"url":" https://tljiaqing.nde.tw/m3u8/?url="},
 {"name":"ckflv","type":1,"url":"http://api.ckflv.cn/?url="},
 {"name":"神4k","type":0,"url":"https://h5.freejson.xyz/player/?url="},
 {"name":"诺讯专用","type": 0,"url":"https://www.nxflv.com/?url="},
-{"name":"OK解析","type": 0,"url":"https://api.okjx.cc:3389/jx.php?url="},
 {"name":"parwix解析","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
 {"name": "夜幕解析","type": 0,"url": "https://www.yemu.xyz/?url=","ext": {"flag": ["imgo","qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
 {"name":"Web2","type":0,"url":"https://www.ckplayer.vip/jiexi/?url="},
