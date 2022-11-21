@@ -27,8 +27,7 @@
 
 {"key":"csp_Bttoo","name":"🐠▎③急速秒播 ▎","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key": "Lezhu_spider","name": "🐷▎①高清秒播▎","api": "csp_Lezhu","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": ""},
-
+{"key":"csp_Bttoo","name":"✌▎①高清秒播 ▎","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
 {
 "key": "4K",
 "name": "🌀▎②高清秒播  ▎",
@@ -41,9 +40,11 @@
 "jar": "http://47.242.90.42:8888/down/r3SL1ODR7qi2",
 "ext": "http://47.242.90.42:8888/down/ZhOsNeA58DtU"
 },
- 
- {"key":"csp_Bttoo","name":"✌▎③高清秒播 ▎","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
- 
+
+
+{"key": "Lezhu_spider","name": "🐷▎③高清秒播▎","api": "csp_Lezhu","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": ""},
+
+
 
 {"key":"csp_Auete" ,"name":"🐼▎④高清秒播 ▎","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 
