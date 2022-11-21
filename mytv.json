@@ -52,31 +52,28 @@
  
  {"key":"csp_Bttoo","name":"🐠▎③高清秒播 ▎","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
 
-{
-"key": "Zxzj",
-"name": "🌏▎④高清秒播  ▎",
-"type": 3,
-"api": "csp_Zxzj",
-"searchable": 1,
-"quickSearch": 1,
-"filterable": 1, 
-"ext": ""
-},
+{"key":"csp_Auete" ,"name":"🐼▎④高清秒播 ▎","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key": "csp_xpath_fantuan","name":"️🍙▎⑤高清秒播 ▎","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/lytv/zyck/raw/branch/master/%e9%a5%ad%e5%9b%a2%e5%bd%b1%e8%a7%86.json"},
+
 {"key":"csp_Czsapp","name":"🕵▎⑥高清秒播 ▎","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},	
+
 {"key":"csp_Ysgc","name":"🎥▎⑦高清秒播 ▎ ","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1},
+
 {"key":"csp_Dy1010","name":"🔟▎⑧高清秒播 ▎ ","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
+
 {"key": "csp_xpNmys","name": "🌾▎⑨高清秒播 ▎","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/农民.json"},
-{"key":"csp_Bttoo","name":"✌▎⑨高清秒播 ▎","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
+
+{"key":"csp_Bttoo","name":"✌▎⑩高清秒播 ▎","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"csp_SP360","name":"🥎▎①解析线路 ▎切换解析播放","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
+
 {"key":"诺讯资源","name":"▎②诺讯资源 ▎切换解析播放","type":1,"api":"http://caiji.nxflv.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["国产剧","港台剧","日韩剧","欧美剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","综艺频道","动漫频道","综合频道"]},
 
-{"key":"csp_Kuaikan","name":"👀▎①高清备用线路▎不太稳定","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Kuaikan","name":"👀▎①高清备用线路▎","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {
 "key": "csp_DiDuan",
-"name": "🛣▎②高清备用线路▎不太稳定",
+"name": "🛣▎②高清备用线路▎",
 "type": 3,
 "api": "csp_Ddrk",
 "click": "ddys.tv;#vjsp > button",
@@ -84,7 +81,19 @@
 "quickSearch": 1,
 "filterable": 0,
 "ext": ""
-},	
+},
+
+{"key": "Lezhu_spider","name": "🐷▎③高清备用线路▎","api": "csp_Lezhu","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": ""},
+
+{"key":"csp_Cokemv","name":"🚗▎④高清备用线路▎","type":3,"api":"csp_Cokemv","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
+
+{"key":"csp_biubiu_真不卡影院(不支持搜索)","name":"💢▎⑤高清〔XB〕线路▎不支持搜索","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/zhenbuka.json"},
+
+{"key":"csp_xp_789kp","name":"💢▎⑥高清〔XB〕线路▎","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/789kp.json"},
+
+{"key":"csp_xp_tjyy","name":"💢▎⑦高清〔XB〕线路▎","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/huigutongying.json"},
+
+{"key":"csp_biubiu_voflix","name":"💢▎⑦高清〔XB〕线路▎","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/voflix.json"},
 
 {"key": "美食","name": " 🍲美食〔合集〕","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/lytv/zyck/raw/branch/master/%e7%be%8e%e9%a3%9f.json"},
 {"key": "MV","name": "💽歌曲MV〔合集〕","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/lytv/zyck/raw/branch/master/%e6%ad%8c%e6%9b%b2MV.json"},
