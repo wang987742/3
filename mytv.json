@@ -25,6 +25,8 @@
 
 {"key":"csp_apple","name":"🍎▎②急速秒播 ▎","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 
+{"key":"csp_Bttoo","name":"🐠▎③急速秒播 ▎","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
+
 {"key": "Lezhu_spider","name": "🐷▎①高清秒播▎","api": "csp_Lezhu","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": ""},
 
 {
@@ -41,7 +43,7 @@
 },
  
  {"key":"csp_Bttoo","name":"✌▎③高清秒播 ▎","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
- {"key":"csp_Bttoo","name":"🐠▎高清秒播 ▎","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
+ 
 
 {"key":"csp_Auete" ,"name":"🐼▎④高清秒播 ▎","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 
