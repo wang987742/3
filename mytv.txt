@@ -26,8 +26,6 @@
 
 {"key": "dr_88看球","name": "88看球","type": 3,"api": "https://download.kstore.space/download/2883/drpy.min.js","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://download.kstore.space/download/2883/88%E7%9C%8B%E7%90%83.js"}, 
 
-{"key":"YQK_spider","name":"一起看TV","api":"csp_YQKAPP","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":"https://api-tx.shumaxc.xyz"},	
-
 
 {
 "key":"csp_77","name":"🌤▎①急速秒播 ▎","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
