@@ -8,7 +8,6 @@
 魅力足球,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
 新视觉,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
 新视觉,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8?zshangd
-新视觉,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
 五星体育,http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
 五星体育,http://14.205.73.133/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
 五星体育,http://111.29.9.48:6610/000000001000/5000000010000017540/index.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
@@ -83,9 +82,7 @@ CCTV5,http://111.29.9.37:6610/000000001000/1000000005000025222/index.m3u8?stbId=
 CCTV5,http://117.169.121.162:6610/PLTV/88888910/224/3221225633/index.m3u8
 CCTV5,http://117.148.179.165/PLTV/88888888/224/3221231702/index.m3u8
 
-CCTV-5+,http://117.148.179.136/PLTV/88888888/224/3221231459/index.m3u8
-CCTV-5+,http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
-CCTV5+,http://39.135.6.18:6610/000000001001/6000000001000015875/1.m3u8?stbId=3&livemode=1&channel-id=wasusyt&Contentid=6000000001000015875
+CCTV5+,http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
 CCTV5+,http://39.135.6.150:6610/000000001001/6000000001000015875/1.m3u8?stbId=3&livemode=1&channel-id=wasusyt&Contentid=6000000001000015875
 
 CCTV6,http://39.135.6.18:6610/000000001001/6000000001000004574/1.m3u8?stbId=3&livemode=1&channel-id=wasusyt&Contentid=6000000001000004574
