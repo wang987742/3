@@ -18,7 +18,7 @@
 	"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL2x5dHYvdHYvcmF3L2JyYW5jaC9tYXN0ZXIvbGl2ZS50eHQ="]}]}],
 	"sites": [
 
- {"key":"dr_豆瓣","name":"▎🌹老杨推荐💕 ▎11.21直播大更新","type":3,"api":"https://agit.ai/lytv/tv/raw/branch/master/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/lytv/tv/raw/branch/master/%e8%b1%86%e7%93%a3.js"},
+ {"key":"dr_豆瓣","name":"▎🌹老杨推荐💕 ▎11.22更新世界杯频道，新增cctv5源","type":3,"api":"https://agit.ai/lytv/tv/raw/branch/master/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/lytv/tv/raw/branch/master/%e8%b1%86%e7%93%a3.js"},
 
 {"key" : "csp_xpath_球迷直播","name" : "球迷直播","type" : 3,"api" : "csp_XPath","searchable" : 0,"quickSearch" : 0,"filterable" : 0,"ext" : "https://download.kstore.space/download/2883/JRKAN%E7%9B%B4%E6%92%AD.json","jar":"https://download.kstore.space/download/2883/panda1122.jar;md5;BA8452F160ACC87B1D10581F622591A1"},
 
