@@ -1,5 +1,5 @@
 ﻿{
-	"spider": "blob:https://gitcode.net/b4e55d08-88ab-460c-a0b8-74fcd005f61d", 
+	"spider": "https://gitee.com/lytv/tv/raw/master/ly2.jar", 
 
 	"wallpaper": "http://maoyingshi.cc/api.php",
 	"rules": [
