@@ -54,13 +54,15 @@
 },
 
 {"key": "csp_xpath_fantuan","name":"️🍙⑤高清秒播 ▎","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/lytv/zyck/raw/branch/master/%e9%a5%ad%e5%9b%a2%e5%bd%b1%e8%a7%86.json"},
+{"key":"csp_Dy1010","name":"🔟▎⑥高清秒播 ▎ ","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Ysgc","name":"🎥▎⑦高清秒播 ▎ ","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1},
 	
 {"key":"csp_SP360","name":"🥎▎①解析线路 ▎切换解析播放","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"诺讯资源","name":"▎②诺讯资源 ▎切换解析播放","type":1,"api":"http://caiji.nxflv.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["国产剧","港台剧","日韩剧","欧美剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","综艺频道","动漫频道","综合频道"]},
 
 {
 "key": "csp_DiDuan",
-"name": "🛣▎高清备用线路▎不太稳定",
+"name": "🛣▎①高清备用线路▎不太稳定",
 "type": 3,
 "api": "csp_Ddrk",
 "click": "ddys.tv;#vjsp > button",
@@ -69,6 +71,7 @@
 "filterable": 0,
 "ext": ""
 },	
+{"key":"csp_Kuaikan","name":"👀▎②高清备用线路▎","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key": "MV","name": "💽歌曲MV〔合集〕","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/lytv/zyck/raw/branch/master/%e6%ad%8c%e6%9b%b2MV.json"},
 {"key": "演唱会","name": "🍟演唱会〔合集〕","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/lytv/zyck/raw/branch/master/%e6%bc%94%e5%94%b1%e4%bc%9a.json"},
