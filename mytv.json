@@ -56,11 +56,6 @@
 {"key":"csp_Ysgc","name":"🎥▎⑦高清秒播 ▎ ","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1},
 
 
-{"key":"csp_AppTT","name":"🆗图图","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1},	
-{"key":"csp_Nmys","name":"🥝农民","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Nmys.json"},
-{"key":"Zjdr","name":"🌐追剧达人","type":3,"api":"csp_Zjdr","searchable":1,"quickSearch":1,"filterable":1},
-
-
 
 {"key":"csp_SP360","name":"🥎▎①解析线路 ▎切换解析播放","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 
@@ -92,6 +87,10 @@
 },
 
 {"key":"csp_Cokemv","name":"🚗▎④高清备用线路▎","type":3,"api":"csp_Cokemv","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
+
+{"key":"csp_AppTT","name":"🆗▎⑤高清备用线路▎","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1},	
+{"key":"csp_Nmys","name":"🥝▎⑥高清备用线路▎","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Nmys.json"},
+{"key":"Zjdr","name":"🌐▎⑦高清备用线路▎","type":3,"api":"csp_Zjdr","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"csp_biubiu_真不卡影院(不支持搜索)","name":"💢▎①高清〔XB〕线路▎不支持搜索","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/zhenbuka.json"},
 
