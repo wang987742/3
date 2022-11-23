@@ -1,4 +1,5 @@
 ﻿🇨🇳｜世界杯,#genre#
+CCTV5超清FHD,http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000205103.m3u8
 CCTV5双轨收音,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
 CCTV5双轨收音,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
 CCTV5双轨收音,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
@@ -41,7 +42,8 @@ CCTV4,http://39.134.115.163:8080/PLTV/88888910/224/3221225621/index.m3u8
 
 CCTV4K,https://p.ggiptv.com/v/4k.m3u8
 
-CCTV5,http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000205103.m3u8
+CCTV5超清FHD,http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000205103.m3u8
+
 CCTV5,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
 CCTV5,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225633/index.m3u8
 CCTV5,http://hls.yun.gehua.net.cn:8088/live/CCTV5HD_6000.m3u8
