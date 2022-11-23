@@ -1,5 +1,5 @@
 ﻿{
-	"spider": "http://47.242.90.42:8888/down/0ToDeFItbVKg", 
+	"spider": "https://gitee.com/lytv/tv/raw/master/ly2.jar", 
 
 	"wallpaper": "http://maoyingshi.cc/api.php",
 	"rules": [
