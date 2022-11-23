@@ -119,7 +119,7 @@ CETV1,http://39.135.6.76:6610/000000001000/5000000002000002652/1.m3u8?Contentid=
 CETV1,http://183.207.255.188/live/program/live/zgjy1ott/1300000/mnf.m3u8
 CCTV移动,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/649e19038fa74514ab3f00febbcd6de0/1200.m3u8
 
-⚛️卫视频道,#genre#
+🐬卫视频道,#genre#
 湖南卫视,http://1.195.111.251:11190/tsfile/live/0128_1.m3u8
 湖南卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225704/index.m3u8
 湖南卫视,http://60.10.167.88:808/hls/19/index.m3u8 
