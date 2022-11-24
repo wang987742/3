@@ -56,8 +56,8 @@
 {"key":"csp_Czsapp","name":"🕵▎⑥高清秒播 ▎","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},	
 
 {"key":"csp_Ysgc","name":"🎥▎⑦高清秒播 ▎ ","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1},
-
-
+{"key":"csp_XBiu口袋影院","name": "📩▎⑧高清秒播 ▎","type": 3,"api": "csp_XBiu","ext": {"homeUrl": "http://www.koudaitv.com/type/{cateId}-{catePg}.html","playlist":{"sort":1}}},
+{"key":"csp_XBiu胖虎影视","name": "🐯▎⑨高清秒播 ▎", "type": 3, "api": "csp_XBiu","ext":"http://panghuys.com/vodshow/{cateId}/page/{catePg}.html"},
 
 {"key":"csp_SP360","name":"🥎▎①解析线路 ▎切换解析播放","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 
@@ -94,6 +94,7 @@
 {"key":"csp_Nmys","name":"🥝▎⑥高清备用线路▎","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Nmys.json"},
 {"key":"Zjdr","name":"🌐▎⑦高清备用线路▎","type":3,"api":"csp_Zjdr","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Yanet","name":"🐬▎⑧高清备用线路▎","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"a369b1f623fe86605f1b029f0cf66349","jar":"http://52bsj.vip:81/api/v3/file/get/61625/cs.jar?sign=bRzGWw4pD0b6L063rLkEWTQsRD2B6XDQKlHEuAeZm0o%3D%3A0"},
+{"key":"csp_xBPQ_云播影视","name":"️🏖▎⑨高清备用线路▎","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://w.g9.pub:66/381203888/xBPQ/TVB%E4%BA%91%E6%92%AD(xBPQ).json"},
 
 {"key":"csp_biubiu_真不卡影院(不支持搜索)","name":"💢▎①高清〔XB〕线路▎不支持搜索","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/zhenbuka.json"},
 
@@ -134,7 +135,7 @@
 {"key":"AliPS","name":"😻盘搜","type":3,"api":"csp_AliPS","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"},
 {"key":"csp_Upyunso","name":"☁️Up云搜","type":3,"api":"csp_Upyunso","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"},
 {"key":"FindZY","name":"🦊找资源","type":3,"api":"csp_Zhaozy","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"},
-
+{"key":"Alips","name":"Ali盘搜┃搜索","type":3,"api":"csp_AliPS","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://w.g9.pub:66/381203888/token.txt","jar":"http://w.g9.pub:66/381203888/jar/%E6%90%9C%E7%B4%A2.jar"},
 {
 "key": "Yisou",
 "name": "易搜阿里┃搜索观看",
