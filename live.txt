@@ -27,20 +27,6 @@ CCTV16,http://[2409:8087:1070:301:2028::18]/gslbserv.iptv.nm.chinamobile.com/PLT
 CCTV16,http://[2409:8087:1070:301:2028::23]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226301/index.m3u8?fmt=ts2hls?世界杯WorldCup
 CCTV16,http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227060/index.m3u8?世界杯WorldCup
 CCTV16,http://yfsl.vsd.gehua.net.cn/live/CCTV16HD_6000.m3u8?世界杯WorldCup
-CCTV16 4K,http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227060/index.m3u8?世界杯WorldCup
-CCTV16 4K,http://[2409:8087:1070:301:2028::23]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226301/index.m3u8?fmt=ts2hls?世界杯WorldCup
-CCTV16 4K,http://111.32.169.223/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012492303.m3u8
-CCTV16 4K,http://ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
-CCTV16 4K,http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227060/index.m3u8
-CCTV16 4K,http://[2409:8087:2004:10::2786:474b]/ott.js.chinamobile.com/PLTV/3/224/3221228168/index.m3u8?icpid=4&RTS=1639880648&from=1&hms_devid=221&vqe=3
-CCTV16 4K,http://[2409:8087:2004:10::2786:474b]/ott.js.chinamobile.com/PLTV/3/224/3221228127/index.m3u8?icpid=4&RTS=1639880648&from=1&hms_devid=221&vqe=3
-CCTV16 4K,http://[2409:8087:1070:301:2028::23]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226301/index.m3u8?fmt=ts2hls
-CCTV16 4K,http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8?hls
-CCTV16 4K,http://ott.mobaibox.com/PLTV/3/224/3221228168/index.m3u8
-CCTV16 4K,http://39.135.55.105:6610/PLTV/88888888/224/3221227162/index.m3u8?servicetype=1&c=福建三明移动
-CCTV16 8m1080,http://39.135.55.105:6610/PLTV/88888888/224/3221227125/index.m3u8?servicetype=1
-CCTV16 8M2160,http://[2409:8087:4402:20:1:1216:401:3b]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227060/index.m3u8?世界杯WorldCup
-CCTV16 8M2160,http://[2409:8087:4402:20:1:1216:401:3b]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227060/index.m3u8
 
 💞央视频道,#genre#
 CCTV1,http://117.169.120.242:8080/wh7f454c46tw1490432856_1716888660/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225618/index.m3u8?icpid=88888888&RTS=1663085841&from=79102&ocs=2_117.169.120.136_8080&hms_devid=1403&online=1663085841&vqe=3
@@ -48,7 +34,6 @@ CCTV1,http://1.195.111.251:11190/tsfile/live/0001_1.m3u8
 
 CCTV2,http://1.195.111.251:11190/tsfile/live/0002_1.m3u8
 CCTV2,http://39.135.138.59:18890/PLTV/88888910/224/3221225619/index.m3u8
-
 
 CCTV3,http://wtv.weetai.cn/iptv/2022/tyzb16.php?id=cctv3
 
