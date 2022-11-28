@@ -71,7 +71,7 @@
 {"key":"csp_xp_tjyy","name":"💢▎③高清〔XB〕线路▎","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/huigutongying.json"},
 
 {"key":"csp_biubiu_voflix","name":"💢▎④高清〔XB〕线路▎","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/voflix.json"},
-"key":"csp_biubiu_1080Kkk","name":"🥒▎①高清〔XB〕线路▎","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/1080Kkk.json"},
+{"key":"csp_biubiu_1080Kkk","name":"🥒▎①高清〔XB〕线路▎","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/1080Kkk.json"},
 {"key":"csp_biubiu_555电影","name":"🥒▎②高清〔XB〕线路▎","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/555电影.json"},
 
 
