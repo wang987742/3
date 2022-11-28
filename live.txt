@@ -10,7 +10,10 @@ CCTV5单声道,http://117.169.121.162:6610/PLTV/88888910/224/3221225633/index.m3
 CCTV5单声道,http://117.148.179.165/PLTV/88888888/224/3221231702/index.m3u8
 CCTV5单声道,http://39.134.66.110/PLTV/88888888/224/3221225818/index.m3u8
 CCTV5单声道,http://39.134.32.102:6610/270000001111/1110000305/index.m3u8?IASHttpSessionId=OTT
+CCTV5-高清(1),http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
+CCTV5-高清(2),http://111.29.9.47:6610/000000001000/1000000005000025222/index.m3u8?channel-id=ystenlive&Contentid=1000000005000025222&livemode=1&stbId=3
 抖音4K世界杯,http://www.mmitv.top/test/douyin-x.php?id=rand
+抖音世界杯4K50P,http://159.75.85.63:5678/zb.php?id=douyin
 咪咕体育,http://117.136.156.3:80/000000001000/3000000010000005180/index.m3u8
 咪咕体育，http://cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225863/index.m3u8
 咪咕体育,http://39.135.134.67/000000001000/3000000001000028638/index.m3u8
@@ -27,6 +30,12 @@ CCTV16,http://[2409:8087:1070:301:2028::18]/gslbserv.iptv.nm.chinamobile.com/PLT
 CCTV16,http://[2409:8087:1070:301:2028::23]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226301/index.m3u8?fmt=ts2hls?世界杯WorldCup
 CCTV16,http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227060/index.m3u8?世界杯WorldCup
 CCTV16,http://yfsl.vsd.gehua.net.cn/live/CCTV16HD_6000.m3u8?世界杯WorldCup
+CCTV16-4K 18M2160,http://ott.mobaibox.com/PLTV/3/224/3221228314/index.m3u8
+CCTV16-4K 25M2160,http://ott.mobaibox.com/PLTV/3/224/3221228168/index.m3u8
+CCTV16-4K 34M2160HLG,http://ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
+CCTV16-4K-SDR源，http：//111.29.9.37：6610/000000001000/5000000008000023254/index.m3U8？stbid = 3＆liveMode = 1＆iiAshtpSessionID = ottppsessionid = ottppsession = ottppsession = ott21971212211111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111119IID＆
+CCTV16-4K-25PHLG源,http://live.cooltv.top/tv/aishang.php?id=cctv164k
+CCTV16-4K-50P-IPV6-HLG源,http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
 
 💞央视频道,#genre#
 CCTV1,http://39.134.32.102:6610/270000001111/1110000301/index.m3u8?IASHttpSessionId=OTT$超清1080P
