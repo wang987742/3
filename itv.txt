@@ -183,7 +183,7 @@
       "type": "3",
       "api": "csp_AList",
       "searchable": "1",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json"
+      "ext": "https://gitee.com/lytv/tv/raw/master/alist.json"
     },
     {
       "key": "Cokemv",
