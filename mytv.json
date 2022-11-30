@@ -139,6 +139,31 @@
       "filterable": 1,
       "ext": "https://gitlab.com/duomv/duo/-/raw/main/json/duboku.json"
     },
+  {
+      "key": "csp_xb_lez",
+      "name": "乐猪(XBiu)",
+      "type": 3,
+      "api": "csp_XBiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": {
+        "homeUrl": "http://www.lezhutv.com/type/{cateId}-{datePg}.html",
+        "playlist":{
+          "sort":1
+        }
+      }
+    },
+      {"key": "csp_XBPQ_南瓜影视",
+      "name": "南瓜影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://www.ngys8.com/vodshow/id/{cateId}/page{catePg}.html"
+    },
+
  {
       "key": "csp_XBiubiu_大米星球",
       "name": "🍚大米星球",
