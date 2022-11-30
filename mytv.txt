@@ -16,9 +16,7 @@
 ],
 
 	"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL2x5dHYvdHYvcmF3L2JyYW5jaC9tYXN0ZXIvbGl2ZS50eHQ="]}]}],
- "epg":"http://epg.51zmt.top:8000/api/diyp/"
-    }
-  ],
+
 
 	"sites": [
 
