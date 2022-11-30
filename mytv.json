@@ -15,20 +15,6 @@
 {"host":"www.007ts.me", "rule":["hls.pchj.net", ".m3u8"]}
 ],
 
- "lives": [
-    {
-      "group": "redirect",
-      "channels": [
-        {
-          "name": "live",
-          "urls": [
-            "proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9DYXQvdHYvbGl2ZS50eHQ="
-          ]
-        }
-      ],
-      "epg":"http://epg.51zmt.top:8000/api/diyp/"
-    }
-  ],
 	"sites": [
 
  {"key":"dr_豆瓣","name":"▎💖🌹老杨推荐💕 ▎","type":3,"api":"https://agit.ai/lytv/tv/raw/branch/master/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/lytv/tv/raw/branch/master/%e8%b1%86%e7%93%a3.js"},
