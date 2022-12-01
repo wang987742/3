@@ -125,8 +125,10 @@
 \"筛选\":\"1\"}"}, 
  {"key": "csp_xBPQ_zizi ","name": "🍀子子影视(XBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/66666/mao/raw/branch/master/json/zizi.json"}, 
 {"key":"七七","name":"🔥七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://download.kstore.space/download/3376/77.jar;md5;5F6A69AC1B85BC9F4FC3B352009C6739"},
-
-
+{"key": "csp_xpNmys","name": "🌾农民〔SP〕","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/农民.json"},
+{"key":"csp_xp_789kp","name":"💢789 看片〔XB〕","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/789kp.json"},
+{"key":"csp_xp_tjyy","name":"💢奇优影院〔XB〕","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/huigutongying.json"},
+{"key":"csp_biubiu_voflix","name":"💢vo fl ix〔XB〕","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/voflix.json"},
 
 
 {"key":"csp_kuaikan","name":"👀快看┃SP","type":3,"api":"csp_Kuaikan","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
