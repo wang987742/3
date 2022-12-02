@@ -20,7 +20,7 @@
 
 	"sites": [
 
- {"key":"dr_豆瓣","name":"▎🌹小杨推荐💕 ▎因代码托管平台受到攻击，加载时间变长，暂时停止维护！","type":3,"api":"https://agit.ai/lytv/tv/raw/branch/master/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/lytv/tv/raw/branch/master/%e8%b1%86%e7%93%a3.js"},
+ {"key":"dr_豆瓣","name":"▎🌹小杨推荐💕 ▎因代码托管平台受到攻击，加载时间可能会变长！","type":3,"api":"https://agit.ai/lytv/tv/raw/branch/master/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/lytv/tv/raw/branch/master/%e8%b1%86%e7%93%a3.js"},
 
 
 {
