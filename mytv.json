@@ -20,8 +20,7 @@
  
 	"sites": [
 
- {"key":"dr_豆瓣","name":"▎💖🌹老杨推荐💕 ▎","type":3,"api":"https://agit.ai/lytv/tv/raw/branch/master/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/lytv/tv/raw/branch/master/%e8%b1%86%e7%93%a3.js"},
-
+ {"key":"dr_豆瓣","name":"▎🌹小杨推荐💕 ▎因代码托管平台受到攻击，加载时间变长，暂时停止维护！","type":3,"api":"https://gitee.com/lytv/tv/raw/master/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://gitee.com/lytv/tv/raw/master/%E8%B1%86%E7%93%A3.js"},
 {"key":"YQK_spider","name":"⚽一起看世界杯💖","api":"csp_YQKAPP","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":"https://api-tx.shumaxc.xyz","jar":"http://52bsj.vip:81/api/v3/file/get/64524/qj1122.jar?sign=hapAQ7YXfCdIIpK5-rhp7miTPrPV64ZDRV4rojXSNJU%3D%3A0"},
 
 {
