@@ -76,7 +76,36 @@
       "filterable": 0,
       "ext": "https://gitee.com/lytv/tvck/raw/master/%E9%87%8F%E5%AD%90%E5%BD%B1%E8%A7%86.js"
     },
-
+    {
+      "key": "dr_莫扎兔",
+      "name": "莫扎兔(drpy)",
+      "type": 3,
+      "api": "https://gitee.com/lytv/tvck/raw/master/drpy.min.js",
+      "searchable": 2,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://gitee.com/lytv/tvck/raw/master/%E8%8E%AB%E6%89%8E%E5%85%94.js"
+    },
+    {
+      "key": "dr_素白白",
+      "name": "素白白(drpy)",
+      "type": 3,
+      "api": "https://gitee.com/lytv/tvck/raw/master/drpy.min.js",
+      "searchable": 2,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://gitee.com/lytv/tvck/raw/master/%E7%B4%A0%E7%99%BD%E7%99%BD.js"
+    },
+    {
+      "key": "dr_秋霞",
+      "name": "秋霞(drpy)",
+      "type": 3,
+      "api": "https://gitee.com/lytv/tvck/raw/master/drpy.min.js",
+      "searchable": 2,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://gitee.com/lytv/tvck/raw/master/%E7%A7%8B%E9%9C%9E.js"
+    },
 
 
 {"key": "Lezhu_spider","name": "🐷▎①高清秒播▎不支持搜索","api": "csp_Lezhu","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": ""},
