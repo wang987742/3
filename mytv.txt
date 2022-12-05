@@ -56,7 +56,16 @@
       "filterable": 0,
       "ext": "https://gitee.com/lytv/tvck/raw/master/%E7%88%B1%E9%85%B7%E5%BD%B1%E8%A7%86.js"
     },
-
+    {
+      "key": "dr_独播库[飞]",
+      "name": "独播库[飞](drpy)",
+      "type": 3,
+      "api": "https://gitee.com/lytv/tvck/raw/master/drpy.min.js",
+      "searchable": 2,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://gitee.com/lytv/tvck/raw/master/%E7%8B%AC%E6%92%AD%E5%BA%93%5B%E9%A3%9E%5D.js"
+    },
 
 {"key": "Lezhu_spider","name": "🐷▎①高清秒播▎不支持搜索","api": "csp_Lezhu","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": ""},
 
