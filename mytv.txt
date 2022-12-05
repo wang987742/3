@@ -35,7 +35,7 @@
 
 {"key":"Zjdr","name":"🌐▎⑥急速秒播▎","type":3,"api":"csp_Zjdr","searchable":1,"quickSearch":1,"filterable":1},
 
-   {"key":"百影视频","name":"🍳▎⑦急速秒播▎","type":3,"api":"csp_MianHua","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"http://47.104.99.175","jar":"http://rl1eetffv.bkt.clouddn.com/czzy1123.jar;md5;e3f1a10099611223738e86beb3e859c1"},
+   {"key":"百影视频","name":"🍳▎⑦急速秒播▎","type":3,"api":"csp_MianHua","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"http://47.104.99.175","jar":"https://gitee.com/lytv/tvck/raw/master/czzy1123.jar;md5;e3f1a10099611223738e86beb3e859c1"},
 
 {"key":"csp_xBPQ_云播影视","name":"️🏖▎超清蓝光▎切换风雷蓝光","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://w.g9.pub:66/381203888/xBPQ/TVB%E4%BA%91%E6%92%AD(xBPQ).json"},
 
