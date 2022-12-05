@@ -166,7 +166,16 @@
       "filterable": 0,
       "ext": "https://gitee.com/lytv/tvck/raw/master/%E9%B8%AD%E5%A5%88%E9%A3%9E.js"
     },
-
+   {
+      "key": "dr_8号影院",
+      "name": "8号影院(drpy)",
+      "type": 3,
+      "api": "https://gitee.com/lytv/tvck/raw/master/drpy.min.js",
+      "searchable": 2,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://gitee.com/lytv/tvck/raw/master/8%E5%8F%B7%E5%BD%B1%E9%99%A2.js"
+    },
 
 {"key": "Lezhu_spider","name": "🐷▎①高清秒播▎不支持搜索","api": "csp_Lezhu","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": ""},
 
