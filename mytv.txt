@@ -106,7 +106,26 @@
       "filterable": 0,
       "ext": "https://gitee.com/lytv/tvck/raw/master/%E7%A7%8B%E9%9C%9E.js"
     },
-
+    {
+      "key": "dr_星辰",
+      "name": "星辰(drpy)",
+      "type": 3,
+      "api": "https://gitee.com/lytv/tvck/raw/master/drpy.min.js",
+      "searchable": 2,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://gitee.com/lytv/tvck/raw/master/%E6%98%9F%E8%BE%B0.js"
+    },
+       {
+      "key": "dr_影视工厂",
+      "name": "影视工厂(drpy)",
+      "type": 3,
+      "api": "https://gitee.com/lytv/tvck/raw/master/drpy.min.js",
+      "searchable": 2,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://gitee.com/lytv/tvck/raw/master/%E5%BD%B1%E8%A7%86%E5%B7%A5%E5%8E%82.js"
+    },
 
 {"key": "Lezhu_spider","name": "🐷▎①高清秒播▎不支持搜索","api": "csp_Lezhu","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": ""},
 
