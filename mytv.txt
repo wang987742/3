@@ -71,6 +71,8 @@
 	
 {"key":"csp_XBiu口袋影院","name": "📩▎⑧高清秒播 ▎","type": 3,"api": "csp_XBiu","ext": {"homeUrl": "http://www.koudaitv.com/type/{cateId}-{catePg}.html","playlist":{"sort":1}}},
 
+{"key":"csp_xpath_meiju56","name":"🎈▎⑨高清秒播 ▎","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/meiju562.json"},
+
 
 {"key":"csp_biubiu_1080Kkk","name":"💢▎①高清〔XB〕线路▎","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/1080Kkk.json"},
 
