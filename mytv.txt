@@ -158,6 +158,12 @@
 {"key": "演唱会","name": "🍟演唱会〔合集〕","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/lytv/zyck/raw/branch/master/%e6%bc%94%e5%94%b1%e4%bc%9a.json"},
 
 
+{"key":"mtv_xp_小纸条源","name":"搜索┃小纸条源","type":3,"api":"csp_Gitcafe"       ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://111.67.196.181/xpath/太陽-盘搜资源.json"},
+{"key":"mtv_xp_找找资源","name":"搜索┃找找资源","type":3,"api":"csp_Zhaozy"        ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://111.67.196.181/xpath/太陽-盘搜资源.json"},
+{"key":"mtv_xp_云搜资源","name":"搜索┃云搜资源","type":3,"api":"csp_Upyunso"       ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://111.67.196.181/xpath/太陽-盘搜资源.json"},
+{"key":"mtv_xp_易搜资源","name":"搜索┃易搜资源","type":3,"api":"csp_Yisou"         ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://111.67.196.181/xpath/太陽-盘搜资源.json"},
+{"key":"mtv_xp_阿里盘搜","name":"搜索┃阿里盘搜","type":3,"api":"csp_AliPS"         ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://111.67.196.181/xpath/太陽-盘搜资源.json"},
+{"key":"push_agent"     ,"name":"推送┃推送资源","type":3,"api":"csp_PushAgent"     ,"searchable":0,"quickSearch":0,"filterable":0,"ext":"http://111.67.196.181/xpath/太陽-盘搜资源.json"},
 
 {
 "key": "csp_云盘",
