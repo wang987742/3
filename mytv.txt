@@ -197,15 +197,27 @@
 {"key": "MV","name": "💽歌曲MV〔合集〕","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/lytv/zyck/raw/branch/master/%e6%ad%8c%e6%9b%b2MV.json"},
 {"key": "演唱会","name": "🍟演唱会〔合集〕","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/lytv/zyck/raw/branch/master/%e6%bc%94%e5%94%b1%e4%bc%9a.json"},
 
-    {
-      "key": "push_agent",
-      "name": "推送",
-      "type": 3,
-      "api": "csp_Push",
-      "searchable": 1,
-      "filterable": 1,
-      "ext": "http://ali.饭太硬.ml/tok"
-    },
+{
+
+"key": "push_agent",
+
+"name": "手机推送┃云盘磁力",
+
+"type": 3,
+
+"api": "csp_PushAgent",
+
+"playerType": 1,
+
+"searchable": 0,
+
+"quickSearch": 0,
+
+"filterable": 0,
+
+"ext": "http://home.jundie.top:666/token.txt"
+
+},
 
 {
 "key": "csp_云盘",
