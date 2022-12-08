@@ -239,24 +239,8 @@
 
 {"name":"Web精选1","type":0,"url":"https://www.ckplayer.vip/jiexi/?url="},
 {"name":"Web精选2","type":0,"url":"https://dm.xmflv.com:4433/?url=","ext": {"flag": ["imgo","ltnb","renrenmi","qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","bilibili","哔哩哔哩","哔哩"]}},
-{"name": "Web4", "type": 0,"url": "http://42.193.18.62:9999/analysis.php?v=","ext": { "flag": ["imgo","qq","腾讯", "qiyi", "爱奇艺","奇艺", "youku", "优酷","mgtv","芒果","letv","乐视","pptv", "PPTV", "sohu","bilibili","哔哩哔哩", "哔哩"]}}, 
-{"name":"标清解析","type": 0,"url":"https://www.nxflv.com/?url="},
 
-{"name":"老杨解析2","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url=","ext":{"flag":["imgo","qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
-
-
-{"name":"老杨1号线","type":1,"url":"http://150.158.175.250:88/parse/sign/812a0f3b8a7ae9dbf90f3d7fac9c8cbc?url=","header":{"User-Agent":"Mozilla/5.0"}},
-{"name": "老杨2号线","type": 1,"url": "https://rx.bt5v.com/json/jsonindex.php/?url=","ext": {"flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","rx","ltnb","bilibili","1905","xigua"]}},
-{"name": "老杨3号线","type": 1,"url": "http://pandown.pro/app/kxjx.php?url=","ext": {"flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","CL4K","renrenmi","ltnb","bilibili","1905","xigua"]}},
-
-
-
-{"name":"老杨解析3","type":1,"url":"http://211.99.99.236:4567/jhjson/ceshi.php?url=","ext":{"flag":["qiyi","iqiyi","奇艺","爱奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","bilibili","哔哩哔哩","哔哩","mgtv","芒果","xigua","西瓜","sohu","搜狐","cntv","cctv","央视","1905","m1905"]}},
-{"name": "老杨解析4","type": 1,"url": "http://jx.vipmv.co/json.php?token=123457&url=","ext": {"flag": ["qq","腾讯","letv","乐视","mgtv","芒果","youku","优酷","qiyi","iqiyi","爱奇艺","奇艺"]}},
-{"name":"老杨解析5","type":1,"url":"http://119.91.206.244:9999/jx/hfys.php?url=","ext": {"flag": ["imgo","duoduozy", "renrenmi","ltnb","miaoparty","miaoparty2","miaoparty3","laodiyun","laodim3u8","lekanzyw","rx","CL4K","fuckapp","1080P", "wuduzy"]}},
-{"name":"GGTV","type":1,"url":"https://play.fuqizhishi.com/jx2/API.php?appkey=iiiixiaobai&url="},
-{"name":"So丶","type":0,"url":" https://tljiaqing.nde.tw/m3u8/?url="},
-{"name":"ckflv","type":1,"url":"http://api.ckflv.cn/?url="}
+{"name":"备用解析","type": 0,"url":"https://www.nxflv.com/?url="}
 ],
 
 
