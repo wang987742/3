@@ -36,6 +36,23 @@ CCTV16-4K 34M2160HLG,http://ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
 CCTV16-4K-SDR源，http：//111.29.9.37：6610/000000001000/5000000008000023254/index.m3U8？stbid = 3＆liveMode = 1＆iiAshtpSessionID = ottppsessionid = ottppsession = ottppsession = ott21971212211111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111119IID＆
 CCTV16-4K-25PHLG源,http://live.cooltv.top/tv/aishang.php?id=cctv164k
 CCTV16-4K-50P-IPV6-HLG源,http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
+世界杯小组赛A组第1轮---卡塔尔VS厄瓜多尔,http://mmmitv.top/test/douyin-x.php?id=7081590255274606628&eid=7168119978166621191
+世界杯小组赛A组第1轮---卡塔尔VS厄瓜多尔,http://mmmitv.top/test/douyin-x.php?id=7081590255274606628&eid=7167340606862545934
+世界杯小组赛A组第1轮---卡塔尔VS厄瓜多尔,http://mmmitv.top/test/douyin-x.php?id=7081590255274606628&eid=7167341777394111519
+世界杯小组赛A组第1轮---卡塔尔VS厄瓜多尔,http://mmmitv.top/test/douyin-x.php?id=7081590255274606628&eid=7167360364240344077
+世界杯小组赛D组第1轮---法国VS澳大利亚,http://mmmitv.top/test/douyin-x.php?id=7077955888174235685
+世界杯小组赛F组第1轮---摩洛哥VS克罗地亚,http://mmmitv.top/test/douyin-x.php?id=7081590255274623012
+世界杯小组赛E组第1轮---德国VS日本,http://mmmitv.top/test/douyin-x.php?id=7078144088528273422
+世界杯小组赛E组第1轮---西班牙VS哥斯达黎加,http://mmmitv.top/test/douyin-x.php?id=7079010933158330381
+世界杯小组赛F组第1轮---比利时VS加拿大,http://mmmitv.top/test/douyin-x.php?id=7077940426422091812
+世界杯小组赛G组第1轮---瑞士VS喀麦隆,http://mmmitv.top/test/douyin-x.php?id=7078143971100557326
+世界杯小组赛H组第1轮---乌拉圭VS韩国,http://mmmitv.top/test/douyin-x.php?id=7079013104176267295
+世界杯小组赛H组第1轮---葡萄牙VS加纳,http://mmmitv.top/test/douyin-x.php?id=7079010819186540580
+世界杯小组赛G组第1轮---巴西VS塞尔维亚,http://mmmitv.top/test/douyin-x.php?id=7078635905942716447
+世界杯小组赛B组第2轮---威尔士VS伊朗,http://mmmitv.top/test/douyin-x.php?id=7079010811733213214
+世界杯小组赛A组第2轮---卡塔尔VS塞内加尔,http://mmmitv.top/test/douyin-x.php?id=7078589836172640270
+世界杯小组赛A组第2轮---荷兰VS厄瓜多尔,http://mmmitv.top/test/douyin-x.php?id=7079010811330560014
+
 
 🇨🇳央视频道,#genre#
 CCTV1,http://39.134.32.102:6610/270000001111/1110000301/index.m3u8?IASHttpSessionId=OTT$超清1080P
