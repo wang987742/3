@@ -170,6 +170,8 @@
       "filterable": 0,
       "ext": "https://gitee.com/lytv/tvck/raw/master/%E9%B8%AD%E5%A5%88%E9%A3%9E.js"
     },
+{key:'drpy_js_凌云影视',name:' 🍁▎⑦高清〔drpy〕线路▎',type:3,api:'https://github.com/heroaku/TVboxo/raw/main/libs/drpy.min.js',ext:'https://github.com/heroaku/TVboxo/raw/main/Js/out/凌云影视.js'},
+
 {"key":"csp_xpath_lezhutv","name":"🥒▎①高清〔XP〕线路▎","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/lezhutv.json"},
 {"key":"csp_xpath_zaixiandianying8","name":"🥒▎②高清〔XP〕线路▎","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/zaixiandianying8.json"},
 {"key":"csp_xpath_135kan","name":"🥒▎③高清〔XP〕线路▎","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/135kan.json"},
@@ -196,8 +198,7 @@
 {"key": "小猫咪","name": "🥎▎③解析线路 ▎切换解析播放","type": 1,"api": "http://zy.xiaomaomi.cc/api.php/provide/vod/","searchable": 1,"quickSearch": 1},
 {"key": "忆梦","name": "🥎▎④解析线路 ▎切换解析播放","type": 1,"api": "http://anltv.cn/api.php/provide/vod/","searchable": 1,"quickSearch": 1},
 
-{key:'csp_XYQBiu_测试',name:' 🌌测试(XYQ)',type:3,api:'csp_XYQBiu',searchable:1,quickSearch:1,filterable:0,ext:'https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/ext/w6gb9623.json'},
-{key:'drpy_js_凌云影视',name:' 🎑凌云影视[DRPY]',type:3,api:'https://github.com/heroaku/TVboxo/raw/main/libs/drpy.min.js',ext:'https://github.com/heroaku/TVboxo/raw/main/Js/out/凌云影视.js'},
+
 
 
 
