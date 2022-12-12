@@ -196,7 +196,7 @@
 {"key": "小猫咪","name": "🥎▎③解析线路 ▎切换解析播放","type": 1,"api": "http://zy.xiaomaomi.cc/api.php/provide/vod/","searchable": 1,"quickSearch": 1},
 {"key": "忆梦","name": "🥎▎④解析线路 ▎切换解析播放","type": 1,"api": "http://anltv.cn/api.php/provide/vod/","searchable": 1,"quickSearch": 1},
 
-
+{key:'csp_XYQBiu_测试',name:' 🌌测试(XYQ)',type:3,api:'csp_XYQBiu',searchable:1,quickSearch:1,filterable:0,ext:'https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/ext/w6gb9623.json'},
 
 {"key":"csp_QQ","name":"🥪▎腾讯视频 ▎切换解析播放","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_MGTV","name":"🥭▎芒果视频 ▎切换解析播放","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1},
