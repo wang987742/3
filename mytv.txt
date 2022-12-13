@@ -31,7 +31,7 @@
             "api": "csp_Nkdy",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,"jar":"http://52bsj.vip:81/api/v3/file/get/67755/cc.jar?sign=y9cTKxK4BVQsYaQnIXgBXvo_P0F2JrFDVXEm1tFowIA%3D%3A0"
+            "filterable": 1,"jar":"https://gitee.com/lytv/tvck/raw/master/cc.jar?sign=y9cTKxK4BVQsYaQnIXgBXvo_P0F2JrFDVXEm1tFowIA%3D%3A0"
         },  
 
 {
@@ -50,7 +50,7 @@
 
 { "key": "极速资源gs","name": "💦▎⑧急速秒播▎","type": 1,"api": "https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": [ "动作片", "爱情片", "科幻片", "战争片", "剧情片", "恐怖片", "喜剧片", "大陆剧", "港澳剧", "台湾剧", "欧美剧", "动漫电影", "韩剧", "日剧", "泰剧"]}, 
 
-{"key":"csp_Bttwoo","name":"🎯▎⑨急速秒播▎","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://52bsj.vip:81/api/v3/file/get/59555/dmtv.jar?sign=-MqtqxB94n_EPkw1pV_VwzlIbT3CPYL5fc6Y2VxgLm0%3D%3A0"},
+{"key":"csp_Bttwoo","name":"🎯▎⑨急速秒播▎","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/lytv/tvck/raw/master/dmtv.jar?sign=-MqtqxB94n_EPkw1pV_VwzlIbT3CPYL5fc6Y2VxgLm0%3D%3A0"},
 
 
 {"key":"csp_xBPQ_云播影视","name":"️🏖▎超清蓝光▎切换风雷蓝光","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://w.g9.pub:66/381203888/xBPQ/TVB%E4%BA%91%E6%92%AD(xBPQ).json"},
