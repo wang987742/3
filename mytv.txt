@@ -31,7 +31,7 @@
 {"key": "csp_xpNmys","name": "🌾推荐②丨秒播","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://gitee.com/lytv/tvck/raw/master/1007.jar?sign=bkJykVTD6QDtfBpTDWQxnRyan-vn9IcpkUxZDIcnwXU%3D%3A0","ext": "http://52bsj.vip:81/api/v3/file/get/59543/%E5%86%9C%E6%B0%91.json?sign=KIBt0LFsfJvjmxlil3-pg6z4ImW81AydgH6IhIJOgCQ%3D%3A0"},
 {"key":"csp_biubiu_um","name":"🦋推荐③丨秒播","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/lytv/tvck/raw/master/umkan.json?sign=v_eVDVxg7zLyVZ8DE10IsC9j84DbovprRY4Ea9aL5xQ%3D%3A0"},
 
-{"key":"sliu_spider", "name":"💎推荐④丨秒播", "type":3,"api":"csp_ShiLiuDY","filterable":1,"quickSearch":1,"playerType":2, "searchable":1,"jar":"https://gitee.com/lytv/tvck/raw/master/panda1123.jar;md5; b1106a30c00023fc614c127cea04a331"},
+{"key":"sliu_spider", "name":"🔥推荐④丨秒播", "type":3,"api":"csp_ShiLiuDY","filterable":1,"quickSearch":1,"playerType":2, "searchable":1,"jar":"https://gitee.com/lytv/tvck/raw/master/panda1123.jar;md5; b1106a30c00023fc614c127cea04a331"},
 
 {"key":"csp_biubiu_dadagui","name":"🐢推荐⑤丨秒播","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/lytv/tvck/raw/master/dadagui.json"},
 
