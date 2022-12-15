@@ -20,7 +20,7 @@
 
 	"sites": [
 
- {"key":"dr_豆瓣","name":"▎🌹小杨推荐💕 ▎←点击主页可切换线路12.13更新！","type":3,"api":"https://gitee.com/lytv/tv/raw/master/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://gitee.com/lytv/tv/raw/master/%E8%B1%86%E7%93%A3.js"},
+ {"key":"dr_豆瓣","name":"▎🌹小杨推荐💕 ▎←点击主页可切换线路12.15更新！","type":3,"api":"https://gitee.com/lytv/tv/raw/master/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://gitee.com/lytv/tv/raw/master/%E8%B1%86%E7%93%A3.js"},
 
 {"key":"csp_Yisou","name":"🔎原画4k（仅搜索）","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,"ext":"cfe35d11f40b4872b3f6e35388b16181","jar":"https://gitee.com/lytv/tvck/raw/master/%E5%8E%9F%E7%94%BB.jar?sign=Dnj7Fy_zQPEegI4pHmr7QcT8Q6ujk8tiyBjD_kn8TTk%3D%3A0"},
 
