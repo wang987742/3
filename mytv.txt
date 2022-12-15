@@ -75,6 +75,8 @@
 
 {"key":"csp_Dy1010","name":"🔟▎⑥高清秒播 ▎ ","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
 
+ {"key":"csp_Auete","name":"🏝▎⑦高清秒播 ▎","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://52bsj.vip:81/api/v3/file/get/59555/dmtv.jar?sign=-MqtqxB94n_EPkw1pV_VwzlIbT3CPYL5fc6Y2VxgLm0%3D%3A0"},
+
 
 
 
