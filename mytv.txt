@@ -67,7 +67,7 @@
 
 {"key":"csp_XBiu胖虎影视","name": "🐯▎②高清秒播 ▎", "type": 3, "api": "csp_XBiu","ext":"http://panghuys.com/vodshow/{cateId}/page/{catePg}.html"},
  
-{"key":"Lgyy","name":"💎▎③高清秒播 ▎","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1,"jar": "","ext": ""},
+{"key":"csp_xpath_meiju56","name":"🎈▎③高清秒播 ▎","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/meiju562.json"},
 
 {"key": "Zxzj","name": "🌏▎④高清秒播  ▎","type": 3,"api": "csp_Zxzj","searchable": 1,"quickSearch": 1,"filterable": 1, "ext": ""},
 
@@ -75,11 +75,9 @@
 
 {"key":"csp_Dy1010","name":"🔟▎⑥高清秒播 ▎ ","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"csp_Ysgc","name":"🎥▎⑦高清秒播 ▎ ","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1},
-	
-{"key":"csp_XBiu口袋影院","name": "📩▎⑧高清秒播 ▎","type": 3,"api": "csp_XBiu","ext": {"homeUrl": "http://www.koudaitv.com/type/{cateId}-{catePg}.html","playlist":{"sort":1}}},
+{"key":"csp_XBiu口袋影院","name": "📩▎⑦高清秒播 ▎","type": 3,"api": "csp_XBiu","ext": {"homeUrl": "http://www.koudaitv.com/type/{cateId}-{catePg}.html","playlist":{"sort":1}}},
 
-{"key":"csp_xpath_meiju56","name":"🎈▎⑨高清秒播 ▎","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/meiju562.json"},
+
 
 
 
@@ -123,12 +121,10 @@
 
 
 {"key": "dr_8号影院","name": "🍁▎①高清〔drpy〕线路▎","type": 3,"api": "https://gitee.com/lytv/tvck/raw/master/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://gitee.com/lytv/tvck/raw/master/8%E5%8F%B7%E5%BD%B1%E9%99%A2.js"},
-{"key": "dr_莫扎兔","name": "🍁▎②高清〔drpy〕线路▎","type": 3,"api": "https://gitee.com/lytv/tvck/raw/master/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://gitee.com/lytv/tvck/raw/master/%E8%8E%AB%E6%89%8E%E5%85%94.js"},
+{"key": "dr_鸭奈飞","name": "🍁▎②高清〔drpy〕线路▎","type": 3,"api": "https://gitee.com/lytv/tvck/raw/master/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://gitee.com/lytv/tvck/raw/master/%E9%B8%AD%E5%A5%88%E9%A3%9E.js"},
 {"key": "dr_星辰","name": "🍁▎③高清〔drpy〕线路▎","type": 3,"api": "https://gitee.com/lytv/tvck/raw/master/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://gitee.com/lytv/tvck/raw/master/%E6%98%9F%E8%BE%B0.js"},
-{"key": "dr_影视工厂","name": "🍁▎④高清〔drpy〕线路▎","type": 3,"api": "https://gitee.com/lytv/tvck/raw/master/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://gitee.com/lytv/tvck/raw/master/%E5%BD%B1%E8%A7%86%E5%B7%A5%E5%8E%82.js"},
+{"key": "dr_鸭奈飞","name": "🍁▎④高清〔drpy〕线路▎","type": 3,"api": "https://gitee.com/lytv/tvck/raw/master/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://gitee.com/lytv/tvck/raw/master/%E9%B8%AD%E5%A5%88%E9%A3%9E.js"},
 {"key": "dr_大师兄影视","name": "🍁▎⑤高清〔drpy〕线路▎","type": 3,"api": "https://gitee.com/lytv/tvck/raw/master/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://gitee.com/lytv/tvck/raw/master/%E5%A4%A7%E5%B8%88%E5%85%84%E5%BD%B1%E8%A7%86.js"},
-{"key": "dr_鸭奈飞","name": "🍁▎⑥高清〔drpy〕线路▎","type": 3,"api": "https://gitee.com/lytv/tvck/raw/master/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://gitee.com/lytv/tvck/raw/master/%E9%B8%AD%E5%A5%88%E9%A3%9E.js"},
-{key:'drpy_js_凌云影视',name:' 🍁▎⑦高清〔drpy〕线路▎',type:3,api:'https://github.com/heroaku/TVboxo/raw/main/libs/drpy.min.js',ext:'https://github.com/heroaku/TVboxo/raw/main/Js/out/凌云影视.js'},
 
 
 
