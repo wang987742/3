@@ -47,8 +47,7 @@
  {"key":"新浪资源","name":"🔪▎⑥高清〔切片〕▎","type":1,"api":"http://api.xinlangapi.com/xinlangapi.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"天空资源","name":"🔪▎⑦高清〔切片〕▎","type":1,"api":"https://api.tiankongapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"光速资源","name":"🔪▎⑧高清〔切片〕▎","type":1,"api":"https://api.guangsuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"U酷资源","name":"🔪▎⑨高清〔切片〕▎","type":1,"api":"https://api.ukuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"乐活影视","name":"乐活影视(优)","type":1,"api":"https://lehootv.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+
 
 
 {"key":"csp_appysv2_万能影院","name":"万能影院(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.wnvod.net/lvdou_api.php/v1.vod"},
@@ -246,6 +245,7 @@
 {"key":"csp_xpath_135kan","name":"🥒▎③高清〔XP〕线路▎","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/135kan.json"},
 {"key":"csp_xpath_rttks","name":"🥒▎④高清〔XP〕线路▎","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/rttks.json"},
 {"key":"csp_xpath_789kp","name":"🥒▎⑤高清〔XP〕线路▎","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/guot54/ygbh/raw/branch/master/XB/789kp.json"},
+
 
 
 {"key":"U酷资源","name":"🍀▎①备用资源(优)▎","type":1,"api":"https://api.ukuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
