@@ -28,6 +28,7 @@
 { "key": "AppTT","name": "🐰推荐①丨秒播","type": 3, "api": "csp_Dora", "jar": "https://gitee.com/lytv/tvck/raw/master/pandatt.jar?sign=uDCfqfGhWMeLGNQX3e9VotUF3QqldBePy0Xu2hr3Jb4%3D%3A0;md5; 3D6C99CAE168DA455AA766618BE7B604","ext": "110c922de7d69804467fb83d3bb664b5"},
 
 {"key": "csp_xpNmys","name": "🌾推荐②丨秒播","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://gitee.com/lytv/tvck/raw/master/1007.jar?sign=bkJykVTD6QDtfBpTDWQxnRyan-vn9IcpkUxZDIcnwXU%3D%3A0","ext": "http://52bsj.vip:81/api/v3/file/get/59543/%E5%86%9C%E6%B0%91.json?sign=KIBt0LFsfJvjmxlil3-pg6z4ImW81AydgH6IhIJOgCQ%3D%3A0"},
+
 {"key":"csp_biubiu_um","name":"🦋推荐③丨秒播","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/lytv/tvck/raw/master/umkan.json?sign=v_eVDVxg7zLyVZ8DE10IsC9j84DbovprRY4Ea9aL5xQ%3D%3A0"},
 
 {"key":"sliu_spider", "name":"🔥推荐④丨秒播", "type":3,"api":"csp_ShiLiuDY","filterable":1,"quickSearch":1,"playerType":2, "searchable":1,"jar":"https://gitee.com/lytv/tvck/raw/master/panda1123.jar;md5; b1106a30c00023fc614c127cea04a331"},
@@ -39,37 +40,12 @@
 
 
 
-{"key":"红牛资源","name":"🔪▎①高清〔切片〕▎","type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
- {"key":"樱花资源","name":"🔪▎②高清〔切片〕▎","type":1,"api":"https://m3u8.apiyhzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"酷点资源","name":"🔪▎③高清〔切片〕▎","type":1,"api":"https://kudianzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"闪电资源","name":"🔪▎④高清〔切片〕▎","type":1,"api":"http://sdzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"飞速资源","name":"🔪▎⑤高清〔切片〕▎","type":1,"api":"https://www.feisuzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
- {"key":"新浪资源","name":"🔪▎⑥高清〔切片〕▎","type":1,"api":"http://api.xinlangapi.com/xinlangapi.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"天空资源","name":"🔪▎⑦高清〔切片〕▎","type":1,"api":"https://api.tiankongapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"光速资源","name":"🔪▎⑧高清〔切片〕▎","type":1,"api":"https://api.guangsuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"csp_77","name":"🌤▎①急速秒播 ▎","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 
-
-
-{"key":"csp_appysv2_万能影院","name":"万能影院(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.wnvod.net/lvdou_api.php/v1.vod"},
-
-
-
-
-
-{
-"key":"csp_77","name":"🌤▎①急速秒播 ▎","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
-
-       {
-            "key": "Nkdy",
-            "name": "🎞️▎②急速秒播 ▎",
-            "type": 3,
-            "api": "csp_Nkdy",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,"jar":"https://gitee.com/lytv/tvck/raw/master/cc.jar?sign=y9cTKxK4BVQsYaQnIXgBXvo_P0F2JrFDVXEm1tFowIA%3D%3A0"
-        },  
-
+{"key": "Nkdy","name": "🎞️▎②急速秒播 ▎","type": 3,"api": "csp_Nkdy","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://gitee.com/lytv/tvck/raw/master/cc.jar?sign=y9cTKxK4BVQsYaQnIXgBXvo_P0F2JrFDVXEm1tFowIA%3D%3A0"},  
+ 
  {"key":"csp_Bttoo","name":"🐠▎③急速秒播 ▎","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
+ 
 {"key":"csp_Kuaikan","name":"👀▎④急速秒播▎","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"csp_Cokemv","name":"🚗▎⑤急速秒播▎","type":3,"api":"csp_Cokemv","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
@@ -246,12 +222,22 @@
 {"key":"csp_xpath_rttks","name":"🥒▎④高清〔XP〕线路▎","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/rttks.json"},
 {"key":"csp_xpath_789kp","name":"🥒▎⑤高清〔XP〕线路▎","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/guot54/ygbh/raw/branch/master/XB/789kp.json"},
 
+{"key":"红牛资源","name":"🔪▎①高清〔切片〕▎","type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+ {"key":"樱花资源","name":"🔪▎②高清〔切片〕▎","type":1,"api":"https://m3u8.apiyhzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"酷点资源","name":"🔪▎③高清〔切片〕▎","type":1,"api":"https://kudianzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"闪电资源","name":"🔪▎④高清〔切片〕▎","type":1,"api":"http://sdzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"飞速资源","name":"🔪▎⑤高清〔切片〕▎","type":1,"api":"https://www.feisuzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+ {"key":"新浪资源","name":"🔪▎⑥高清〔切片〕▎","type":1,"api":"http://api.xinlangapi.com/xinlangapi.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"天空资源","name":"🔪▎⑦高清〔切片〕▎","type":1,"api":"https://api.tiankongapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"光速资源","name":"🔪▎⑧高清〔切片〕▎","type":1,"api":"https://api.guangsuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+
 
 
 {"key":"U酷资源","name":"🍀▎①备用资源(优)▎","type":1,"api":"https://api.ukuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"考拉TV","name":"🍀▎②备用资源(优)▎","type":1,"api":"https://ikaola.tv/api.php/provide/vod/","playUrl":"https://ikaola.tv/vwnet/dplayer/?url=","searchable":1,"quickSearch":1},
 {"key":"乐活影视","name":"🍀▎③备用资源(优)▎","type":1,"api":"https://lehootv.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"csp_appysv2_2号币","name":"🍀▎④备用资源(优)▎","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://phoebe.cf/api.php/iptv/vod/"},
+{"key":"csp_appysv2_万能影院","name":"🍀▎⑤备用资源(优)▎","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.wnvod.net/lvdou_api.php/v1.vod"},
 
 
 {"key":"影图","name":"✨▎①聚合备用▎","type":1,"api":"https://cj.vodimg.top/api.php/provide/vod/","searchable":1,"quickSearch":1},
