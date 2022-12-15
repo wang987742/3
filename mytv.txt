@@ -63,7 +63,7 @@
 
 
 
-
+{"key":"csp_XBiu口袋影院","name": "📩▎①高清秒播 ▎","type": 3,"api": "csp_XBiu","ext": {"homeUrl": "http://www.koudaitv.com/type/{cateId}-{catePg}.html","playlist":{"sort":1}}},
 
 {"key":"csp_XBiu胖虎影视","name": "🐯▎②高清秒播 ▎", "type": 3, "api": "csp_XBiu","ext":"http://panghuys.com/vodshow/{cateId}/page/{catePg}.html"},
  
@@ -74,8 +74,6 @@
 {"key": "csp_xpath_fantuan","name":"️🍙⑤高清秒播 ▎","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/lytv/zyck/raw/branch/master/%e9%a5%ad%e5%9b%a2%e5%bd%b1%e8%a7%86.json"},
 
 {"key":"csp_Dy1010","name":"🔟▎⑥高清秒播 ▎ ","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
-
-{"key":"csp_XBiu口袋影院","name": "📩▎⑦高清秒播 ▎","type": 3,"api": "csp_XBiu","ext": {"homeUrl": "http://www.koudaitv.com/type/{cateId}-{catePg}.html","playlist":{"sort":1}}},
 
 
 
