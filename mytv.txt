@@ -63,11 +63,11 @@
 
 
 
-{"key":"csp_Auete","name":"🏝▎①高清秒播 ▎","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/lytv/tvck/raw/master/dmtv.jar"},
+
 
 {"key":"csp_XBiu胖虎影视","name": "🐯▎②高清秒播 ▎", "type": 3, "api": "csp_XBiu","ext":"http://panghuys.com/vodshow/{cateId}/page/{catePg}.html"},
  
-{"key":"csp_xpath_meiju56","name":"🎈▎③高清秒播 ▎","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/meiju562.json"},
+{"key":"csp_xpath_meiju56","name":"🎈▎③高清秒播 ▎","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/lytv/tvck/raw/master/meiju562.json"},
 
 {"key": "Zxzj","name": "🌏▎④高清秒播  ▎","type": 3,"api": "csp_Zxzj","searchable": 1,"quickSearch": 1,"filterable": 1, "ext": ""},
 
