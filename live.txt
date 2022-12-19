@@ -1,5 +1,62 @@
 ﻿
 🇨🇳央视频道,#genre#
+ CCTV1,http://youguan.gq/migu.php?id=cctv1
+ CCTV2,http://youguan.gq/migu.php?id=cctv2
+ CCTV3,http://youguan.gq/migu.php?id=cctv3
+ CCTV4,http://youguan.gq/migu.php?id=cctv4
+ CCTV4,http://youguan.gq/migu.php?id=cctv4O
+ CCTV4,http://youguan.gq/migu.php?id=cctv4a
+ CCTV5,http://youguan.gq/migu.php?id=cctv5
+ CCTV5+,http://youguan.gq/migu.php?id=cctv5p
+ CCTV6,http://youguan.gq/migu.php?id=cctv6
+ CCTV7,http://youguan.gq/migu.php?id=cctv7
+ CCTV8,http://youguan.gq/migu.php?id=cctv8
+ CCTV10,http://youguan.gq/migu.php?id=cctv10
+ CCTV11,http://youguan.gq/migu.php?id=cctv11
+ CCTV12,http://youguan.gq/migu.php?id=cctv12
+ CCTV13,http://youguan.gq/migu.php?id=cctv13
+ CCTV15,http://youguan.gq/migu.php?id=cctv15
+ CCTV16,http://youguan.gq/migu.php?id=cctv16
+ CCTV16,http://youguan.gq/migu.php?id=cctv16b
+ CCTV17,http://youguan.gq/migu.php?id=cctv17hd
+ CCTV怀旧剧场,http://youguan.gq/migu.php?id=cctvhjjc
+ CCTV第一剧场,http://youguan.gq/migu.php?id=cctvdyjc
+ CCTV风云剧场,http://youguan.gq/migu.php?id=cctvfyjc
+ CCTV风云足球,http://youguan.gq/migu.php?id=cctvfyzq
+ CCTV央视文化精品,http://youguan.gq/migu.php?id=cctvwhjp
+ CCTV世界地理,http://youguan.gq/migu.php?id=cctvsjdl
+ CCTV女性时尚,http://youguan.gq/migu.php?id=cctvnxss
+ CCTV电视指南,http://youguan.gq/migu.php?id=cctvdszn
+ CCTV央视台球,http://youguan.gq/migu.php?id=cctvystq
+ CCTV高尔夫网球,http://youguan.gq/migu.php?id=cctvgefwq
+ CCTV1,http://youguan.gq/guoma.php?id=cctv1hd
+CCTV2,http://youguan.gq/guoma.php?id=cctv2hd
+CCTV3,http://youguan.gq/guoma.php?id=cctv3hd
+CCTV4,http://youguan.gq/guoma.php?id=cctv4
+CCTV5,http://youguan.gq/guoma.php?id=cctv5hd
+CCTV5+,http://youguan.gq/guoma.php?id=cctv5p
+CCTV6,http://youguan.gq/guoma.php?id=cctv6hd
+CCTV7,http://youguan.gq/guoma.php?id=cctv7hd
+CCTV8,http://youguan.gq/guoma.php?id=cctv8hd
+CCTV9,http://youguan.gq/guoma.php?id=cctv9hd
+CCTV10,http://youguan.gq/guoma.php?id=cctv10hd
+CCTV11,http://youguan.gq/guoma.php?id=cctv11
+CCTV12,http://youguan.gq/guoma.php?id=cctv12hd
+CCTV13,http://youguan.gq/guoma.php?id=cctv13
+CCTV14,http://youguan.gq/guoma.php?id=cctv14
+CCTV15,http://youguan.gq/guoma.php?id=cctv15
+CCTV17,http://youguan.gq/guoma.php?id=cctv17
+CCTV2,http://youguan.gq/guoma.php?id=cctv2
+CCTV4-2,http://youguan.gq/guoma.php?id=cctv4b
+CCTV7,http://youguan.gq/guoma.php?id=cctv7
+CCTV10,http://youguan.gq/guoma.php?id=cctv10
+CCTV12,http://youguan.gq/guoma.php?id=cctv12
+CCTV文化精品,http://youguan.gq/guoma.php?id=whjp
+CCTV风云音乐,http://youguan.gq/guoma.php?id=fyyy
+CCTV怀旧剧场,http://youguan.gq/guoma.php?id=hjjc
+CCTV风云足球,http://youguan.gq/guoma.php?id=fyzq
+CCTV风云剧场,http://youguan.gq/guoma.php?id=fyjc
+CCTV第一剧场,http://youguan.gq/guoma.php?id=dyjc
 CCTV1,http://39.134.32.102:6610/270000001111/1110000301/index.m3u8?IASHttpSessionId=OTT$超清1080P
 CCTV1,http://111.40.196.25/PLTV/88888888/224/3221225548/index.m3u8$超清1080P
 CCTV1,http://117.169.121.162:6610/PLTV/88888910/224/3221225642/index.m3u8
@@ -758,6 +815,82 @@ CCTV纪实人文,http://183.207.255.188/live/program/live/jspdhd/4000000/mnf.m3u
 CCTV纪实人文,http://nsszds.f3322.net:808/hls/56/index.m3u8
 
 🐬卫视频道,#genre#
+北京卫视,http://youguan.gq/migu.php?id=bjws
+ 东方卫视,http://youguan.gq/migu.php?id=dfws
+ 黑龙江卫视,http://youguan.gq/migu.php?id=hljws
+ 吉林卫视,http://youguan.gq/migu.php?id=jlws
+ 辽宁卫视,http://youguan.gq/migu.php?id=lnws
+ 甘肃卫视,http://youguan.gq/migu.php?id=gsws
+ 青海卫视,http://youguan.gq/migu.php?id=qhws
+ 河北卫视,http://youguan.gq/migu.php?id=hbws
+ 湖北卫视,http://youguan.gq/migu.php?id=hubws
+ 湖南卫视,http://youguan.gq/migu.php?id=hunws
+ 江西卫视,http://youguan.gq/migu.php?id=jxws
+ 江苏卫视,http://youguan.gq/migu.php?id=jsws
+ 东南卫视,http://youguan.gq/migu.php?id=dnws
+ 广东卫视,http://youguan.gq/migu.php?id=gdws
+ 南方卫视,http://youguan.gq/migu.php?id=nfws
+ 广西卫视,http://youguan.gq/migu.php?id=gxws
+ 云南卫视,http://youguan.gq/migu.php?id=ynws
+ 贵州卫视,http://youguan.gq/migu.php?id=gzws
+ 四川卫视,http://youguan.gq/migu.php?id=scws
+ 四川卫视,http://youguan.gq/migu.php?id=scwshd
+ 新疆卫视,http://youguan.gq/migu.php?id=xjws
+ 兵团卫视,http://youguan.gq/migu.php?id=btws
+ 江苏教育,http://youguan.gq/migu.php?id=jsjy
+ 游戏风云,http://youguan.gq/migu.php?id=yxfyhd
+ 广东卫视,http://youguan.gq/guoma.php?id=gdwshd
+湖南卫视,http://youguan.gq/guoma.php?id=hunwshd
+浙江卫视,http://youguan.gq/guoma.php?id=zjwshd
+江苏卫视,http://youguan.gq/guoma.php?id=jswshd
+北京卫视,http://youguan.gq/guoma.php?id=bjwshd
+深圳卫视,http://youguan.gq/guoma.php?id=szwshd
+东方卫视,http://youguan.gq/guoma.php?id=dfwshd
+天津卫视,http://youguan.gq/guoma.php?id=tjwshd
+安徽卫视,http://youguan.gq/guoma.php?id=ahwshd
+黑龙江卫视,http://youguan.gq/guoma.php?id=hljwshd
+湖北卫视,http://youguan.gq/guoma.php?id=hubwshd
+四川卫视,http://youguan.gq/guoma.php?id=scwshd
+贵州卫视,http://youguan.gq/guoma.php?id=gzwshd
+辽宁卫视,http://youguan.gq/guoma.php?id=lnwshd
+东南卫视,http://youguan.gq/guoma.php?id=dnwshd
+河北卫视,http://youguan.gq/guoma.php?id=hbwshd
+江西卫视,http://youguan.gq/guoma.php?id=jxwshd
+吉林卫视,http://youguan.gq/guoma.php?id=jlwshd
+广西卫视,http://youguan.gq/guoma.php?id=gxwshd
+四川卫视,http://youguan.gq/guoma.php?id=scws
+山东教育卫视,http://youguan.gq/guoma.php?id=sdjy
+宁夏卫视,http://youguan.gq/guoma.php?id=nxws
+东南卫视,http://youguan.gq/guoma.php?id=dnws
+山东卫视,http://youguan.gq/guoma.php?id=sdws
+重庆卫视,http://youguan.gq/guoma.php?id=cqws
+河南卫视,http://youguan.gq/guoma.php?id=hnws
+北京卫视,http://youguan.gq/guoma.php?id=bjws
+天津卫视,http://youguan.gq/guoma.php?id=tjws
+大湾区卫视2,http://youguan.gq/guoma.php?id=dwqws2
+深圳卫视,http://youguan.gq/guoma.php?id=szws
+新疆卫视,http://youguan.gq/guoma.php?id=xjws
+东南卫视2,http://youguan.gq/guoma.php?id=dnws2
+湖南卫视,http://youguan.gq/guoma.php?id=hunws
+贵州卫视,http://youguan.gq/guoma.php?id=gzws
+东方卫视,http://youguan.gq/guoma.php?id=dfws
+星空卫视,http://youguan.gq/guoma.php?id=xkws
+Channelv,http://youguan.gq/guoma.php?id=channelv
+广西卫视,http://youguan.gq/guoma.php?id=gxws
+广东卫视,http://youguan.gq/guoma.php?id=gdws
+云南卫视,http://youguan.gq/guoma.php?id=ynws
+江苏卫视,http://youguan.gq/guoma.php?id=jsws
+湖北卫视,http://youguan.gq/guoma.php?id=hubws
+青海南卫视,http://youguan.gq/guoma.php?id=qhws
+陕西卫视,http://youguan.gq/guoma.php?id=sxws
+山西卫视,http://youguan.gq/guoma.php?id=sxiws
+内蒙古卫视,http://youguan.gq/guoma.php?id=nmws
+海南卫视,http://youguan.gq/guoma.php?id=hinws
+甘肃卫视,http://youguan.gq/guoma.php?id=gsws
+兵团卫视,http://youguan.gq/guoma.php?id=btws
+西藏卫视,http://youguan.gq/guoma.php?id=xzws
+新疆卫视2,http://youguan.gq/guoma.php?id=xjws2
+三沙卫视,http://youguan.gq/guoma.php?id=ssws
 东南卫视,http://117.169.121.162:6610/PLTV/88888910/224/3221225657/index.m3u8
 东方卫视,http://117.169.121.162:6610/PLTV/88888910/224/3221225658/index.m3u8
 东方卫视,http://117.169.121.162:6610/PLTV/88888910/224/3221225659/index.m3u8
@@ -2281,6 +2414,11 @@ NewTV炫舞未来,http://39.135.7.4:6610/000000001000/1000000001000000515/index.
 甘肃公共应急,https://hls.gstv.com.cn/49048r/3t5xyc.m3u8?zgand
 甘肃文化影院,https://hls.gstv.com.cn/49048r/w1l6d5.m3u8?zgand
 甘肃移动电视,https://hls.gstv.com.cn/49048r/y72q36.m3u8?zgand
+兰州新闻综合,http://youguan.gq/hoge.php?id=gslzxw
+兰州生活经济,http://youguan.gq/hoge.php?id=gslzsh
+兰州文旅,http://youguan.gq/hoge.php?id=gslzwl
+庆阳综合,http://youguan.gq/hoge.php?id=gsqyzh
+庆阳公共,http://youguan.gq/hoge.php?id=gsqygg
 嘉峪关综合,http://39.134.32.102:6610/270000001111/1110000200/index.m3u8?IASHttpSessionId=OTT?zgand
 白银综合,http://live.bygd.cn/byzh/sd/live.m3u8?gansu
 白银公共,http://live.bygd.cn/bygg/sd/live.m3u8?zgand
