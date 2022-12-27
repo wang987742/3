@@ -28,7 +28,7 @@
 {key:'csp_appysv2_M2_haiwai影视',name:'淘片影视',type:0,api:'https://taopianapi.com/home/cjapi/as/mc/vod/xml',searchable:1,quickSearch:0,filterable:0},
 {key:'非凡采集',name:' 🍁非凡影视',type:0,api:'http://cj.ffzyapi.com/api.php/provide/vod/at/xml/',searchable:1,quickSearch:0,filterable:0},
 {key:'量子采集',name:' 🍁量子资源',type:0,api:'https://cj.lziapi.com/api.php/provide/vod/at/xml/',searchable:1,quickSearch:0,filterable:0},
-
+{key:'影图',name:'🍁影图',type:1,api:'https://cj.vodimg.top/api.php/provide/vod/',searchable:1,quickSearch:1},
 
 
 { "key": "AppTT","name": "🐰推荐①丨秒播","type": 3, "api": "csp_Dora", "jar": "https://gitee.com/lytv/tvck/raw/master/pandatt.jar?sign=uDCfqfGhWMeLGNQX3e9VotUF3QqldBePy0Xu2hr3Jb4%3D%3A0;md5; 3D6C99CAE168DA455AA766618BE7B604","ext": "110c922de7d69804467fb83d3bb664b5"},
