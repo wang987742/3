@@ -32,7 +32,7 @@
 {key:'csp_xpath_348z',name:' 🌾348电影(XPF)',type:3,api:'csp_XPathFilter',searchable:1,quickSearch:1,filterable:1,ext:'https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/ext/60nairdr.json'},
 {key:'drpy_js_万能影视',name:' 🎑万能影视[DRPY]',type:3,api:'https://github.com/heroaku/TVboxo/raw/main/libs/drpy.min.js',ext:'https://github.com/heroaku/TVboxo/raw/main/Js/out/万能影视.js'},
 {key:'csp_xpath_HOHO',name:' 🌾HOHO(XPF)',type:3,api:'csp_XPathMacFilter',searchable:1,quickSearch:1,filterable:1,ext:'https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/ext/qe3dmz7v.json'},
-
+{key:'drpy_js_歪片星球',name:' 🎑歪片星球[DRPY]',type:3,api:'https://github.com/heroaku/TVboxo/raw/main/libs/drpy.min.js',ext:'https://github.com/heroaku/TVboxo/raw/main/Js/out/歪片星球.js'},
 
 
 { "key": "AppTT","name": "🐰推荐①丨秒播","type": 3, "api": "csp_Dora", "jar": "https://gitee.com/lytv/tvck/raw/master/pandatt.jar?sign=uDCfqfGhWMeLGNQX3e9VotUF3QqldBePy0Xu2hr3Jb4%3D%3A0;md5; 3D6C99CAE168DA455AA766618BE7B604","ext": "110c922de7d69804467fb83d3bb664b5"},
