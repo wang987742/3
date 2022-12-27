@@ -227,6 +227,7 @@
 "ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}}, 
 {"name":"老杨精选25","type":0,"url":"https://h5.freejson.xyz/player/?url="},
 {"name":"老杨精选26","type": 0,"url":"https://api.okjx.cc:3389/jx.php?url="},
+{name:'老杨精选27',type:0,url:'https://jx.4kdv.com/?url='},
 
 {"name":"Web精选1","type":0,"url":"https://www.ckplayer.vip/jiexi/?url="},
 {"name":"Web精选2","type":0,"url":"https://dm.xmflv.com:4433/?url=","ext": {"flag": ["imgo","ltnb","renrenmi","qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","bilibili","哔哩哔哩","哔哩"]}},
