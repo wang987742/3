@@ -28,7 +28,7 @@
 {key:'csp_appysv2_M2_haiwai影视',name:'🌌淘片影视',type:0,api:'https://taopianapi.com/home/cjapi/as/mc/vod/xml',searchable:1,quickSearch:0,filterable:0},
 {key:'非凡采集',name:' 🌻非凡影视',type:0,api:'http://cj.ffzyapi.com/api.php/provide/vod/at/xml/',searchable:1,quickSearch:0,filterable:0},
 {key:'量子采集',name:' 🍂量子资源',type:0,api:'https://cj.lziapi.com/api.php/provide/vod/at/xml/',searchable:1,quickSearch:0,filterable:0},
-{key:'csp_xpath_HOHO',name:' 🌾HOHO(XPF)',type:3,api:'csp_XPathMacFilter',searchable:1,quickSearch:1,filterable:1,ext:'https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/ext/qe3dmz7v.json'},
+{key:'csp_xpath_HOHO',name:' 🌾HOHO(XPF)',type:3,api:'csp_XPathMacFilter',searchable:1,quickSearch:1,filterable:1,ext:'https://gitee.com/lytv/tvck/raw/master/qe3dmz7v.json'},
 {key:'csp_xpath_348z',name:' 🛫348电影(XPF)',type:3,api:'csp_XPathFilter',searchable:1,quickSearch:1,filterable:1,ext:'https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/ext/60nairdr.json'},
 {key:'drpy_js_万能影视',name:' 🎑万能影视[DRPY]',type:3,api:'https://ghproxy.com/https://github.com/heroaku/TVboxo/raw/main/libs/drpy.min.js',ext:'https://ghproxy.com/https://github.com/heroaku/TVboxo/raw/main/Js/out/万能影视.js'},
 
