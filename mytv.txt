@@ -26,8 +26,7 @@
 {"key": "Gitcafe","name": "小纸条(选原画播放)","type": 3,"api": "csp_GitCafe","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "2e0da6f57c2b4e4599e7c5f190d70f99","jar":"https://download.kstore.space/download/3376/1128.jar;md5;6A92E85399922FF0FD7813BBC2F09957"},
 
 
-{"key":"csp_AppTT","name":"🐰图图影视","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://raw.iqiq.io/liu673cn/box/main/sub/jar/2212.jar;md5;80DA9A5A82CDCE90317FD19B7FAA1890","ext":"http://121.205.88.126:7788"},
-
+{"key":"csp_AppTT","name":"💥超级推荐","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://gitee.com/lytv/tvck/raw/master/2212.jar;md5;80DA9A5A82CDCE90317FD19B7FAA1890","ext":"http://121.205.88.126:7788"},
 
 
 {key:'csp_xb_test ',name:' 🌈超清丨仅搜索',type:3,api:'csp_XBiu',searchable:1,quickSearch:1,filterable:0,ext:'https://v.yunque.vip/index.php/vod/show/id/{cateId}/page/{catePg}.html'},
