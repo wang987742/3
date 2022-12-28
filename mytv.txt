@@ -179,6 +179,7 @@
 {"key":"csp_xp_jLgyy","name":"🥒▎⑥高清〔XP〕线路▎","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/liu673cn/box/main/sub/MeowXP/lgyy.json"},
 {"key":"csp_xp_nmys","name":"🥒▎⑦高清〔XP〕线路▎","type": 3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/liu673cn/box/main/sub/MeowXP/nmys2.json"},
 {"key":"csp_xp_gongreng","name":"🥒▎⑧高清〔XP〕线路▎","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/liu673cn/box/main/sub/MeowXP/gongreng.json"},
+{"key":"csp_xp_lezhutv","name":"💢乐猪TV","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/liu673cn/box/main/sub/MeowXP/lezhutv.json"},
 
 
 
