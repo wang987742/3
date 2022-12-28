@@ -207,9 +207,10 @@
 {"key": "dr_8号影院","name": "🍁▎①高清〔drpy〕线路▎","type": 3,"api": "https://gitee.com/lytv/tvck/raw/master/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://gitee.com/lytv/tvck/raw/master/8%E5%8F%B7%E5%BD%B1%E9%99%A2.js"},
 {"key": "dr_鸭奈飞","name": "🍁▎②高清〔drpy〕线路▎","type": 3,"api": "https://gitee.com/lytv/tvck/raw/master/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://gitee.com/lytv/tvck/raw/master/%E9%B8%AD%E5%A5%88%E9%A3%9E.js"},
 {"key": "dr_星辰","name": "🍁▎③高清〔drpy〕线路▎","type": 3,"api": "https://gitee.com/lytv/tvck/raw/master/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://gitee.com/lytv/tvck/raw/master/%E6%98%9F%E8%BE%B0.js"},
+{key:'drpy_js_歪片星球',name:'🍁▎④高清〔drpy〕线路▎',type:3,api:'https://gitee.com/lytv/tvck/raw/master/drpy.min_2.js',ext:'https://ghproxy.com/https://github.com/heroaku/TVboxo/raw/main/Js/out/歪片星球.js'},
+
 {key:'drpy_js_万能影视',name:'🍁▎⑤高清〔drpy〕线路▎',type:3,api:'https://gitee.com/lytv/tvck/raw/master/drpy.min_2.js',ext:'https://ghproxy.com/https://github.com/heroaku/TVboxo/raw/main/Js/out/万能影视.js'},
 
-{key:'drpy_js_歪片星球',name:'🍁▎⑥高清〔drpy〕线路▎',type:3,api:'https://gitee.com/lytv/tvck/raw/master/drpy.min_2.js',ext:'https://ghproxy.com/https://github.com/heroaku/TVboxo/raw/main/Js/out/歪片星球.js'},
 
 
 
