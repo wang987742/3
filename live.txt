@@ -1,12 +1,12 @@
 ﻿
 🇨🇳央视频道,#genre#
- CCTV1,http://tvmvip110.club/as.php?id=cctv1hd
-CCTV1,http://tvmvip110.club/as.php?id=cctv1
-CCTV2,http://tvmvip110.club/as.php?id=cctv2
-CCTV2,http://tvmvip110.club/as.php?id=cctv2hd
-CCTV3,http://tvmvip110.club/as.php?id=cctv3
-CCTV3,http://tvmvip110.club/as.php?id=cctv3hd
-CCTV4,http://tvmvip110.club/as.php?id=cctv4
+5CCTV1,http://tvmvip110.club/as.php?id=cctv1hd
+5CCTV1,http://tvmvip110.club/as.php?id=cctv1
+5CCTV2,http://tvmvip110.club/as.php?id=cctv2
+5CCTV2,http://tvmvip110.club/as.php?id=cctv2hd
+5CCTV3,http://tvmvip110.club/as.php?id=cctv3
+5CCTV3,http://tvmvip110.club/as.php?id=cctv3hd
+5CCTV4,http://tvmvip110.club/as.php?id=cctv4
 CCTV4,http://tvmvip110.club/as.php?id=cctv4hd
 CCTV5,http://tvmvip110.club/as.php?id=cctv5hd
 CCTV5,http://tvmvip110.club/as.php?id=cctv5
